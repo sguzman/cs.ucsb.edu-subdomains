@@ -1,0 +1,1622 @@
+[DNSDB]       fleming.cs.ucsb.edu,128.111.48.107
+[DNSDB]       basica.cs.ucsb.edu,128.111.55.35
+[DNSDB]       almodovar.cs.ucsb.edu,128.111.48.110
+[DNSDB]       besson.cs.ucsb.edu,128.111.48.103
+[DNSDB]       canyons.cs.ucsb.edu,128.111.52.31
+[DNSDB]       aronofsky.cs.ucsb.edu,128.111.48.124
+[DNSDB]       alumni.cs.ucsb.edu,128.111.43.15
+[DNSDB]       capra.cs.ucsb.edu,128.111.48.101
+[DNSDB]       anubis.cs.ucsb.edu,128.111.48.14
+[DNSDB]       bes.cs.ucsb.edu,128.111.44.25
+[DNSDB]       crow.cs.ucsb.edu,128.111.45.80
+[DNSDB]       bergman.cs.ucsb.edu,128.111.48.122
+[DNSDB]       coppola.cs.ucsb.edu,128.111.48.220
+[DNSDB]       kings.cs.ucsb.edu,128.111.68.170
+[DNSDB]       dhcp-41-222.cs.ucsb.edu,128.111.41.222
+[DNSDB]       africa.cs.ucsb.edu,128.111.52.40
+[DNSDB]       boston.cs.ucsb.edu,128.111.52.113
+[DNSDB]       blacksheep.cs.ucsb.edu,128.111.45.97
+[DNSDB]       cohen.cs.ucsb.edu,128.111.48.9
+[DNSDB]       dhcp-52-171.cs.ucsb.edu,128.111.52.171
+[DNSDB]       dhcp-68-212.cs.ucsb.edu,128.111.68.212
+[DNSDB]       dhcp48-65.cs.ucsb.edu,128.111.48.65
+[DNSDB]       dino.cs.ucsb.edu,128.111.48.70
+[DNSDB]       planet4.cs.ucsb.edu,128.111.52.64
+[DNSDB]       dudley.cs.ucsb.edu,128.111.43.74
+[DNSDB]       moment.cs.ucsb.edu,128.111.27.13
+[DNSDB]       dhcp-68-214.cs.ucsb.edu,128.111.68.214
+[DNSDB]       si.cs.ucsb.edu,128.111.54.11
+[DNSDB]       csworld48.cs.ucsb.edu,128.111.48.2
+[DNSDB]       planet1.cs.ucsb.edu,128.111.52.61
+[DNSDB]       csworld41.cs.ucsb.edu,128.111.41.2
+[DNSDB]       shadow.cs.ucsb.edu,128.111.48.120
+[DNSDB]       dhcp-68-211.cs.ucsb.edu,128.111.68.211
+[DNSDB]       spam2.cs.ucsb.edu,192.35.222.225
+[DNSDB]       dhcp48-62.cs.ucsb.edu,128.111.48.62
+[Forward DNS] welles.cs.ucsb.edu,128.111.48.120
+[DNSDB]       dhcp-55-205.cs.ucsb.edu,128.111.55.205
+[DNSDB]       planet2.cs.ucsb.edu,128.111.52.62
+[DNSDB]       coen.cs.ucsb.edu,128.111.48.50
+[DNSDB]       spam4.cs.ucsb.edu,192.35.222.5
+[DNSDB]       dhcp-46-210.cs.ucsb.edu,128.111.46.210
+[DNSDB]       spam.cs.ucsb.edu,192.35.222.220
+[DNSDB]       dhcp-41-206.cs.ucsb.edu,128.111.41.206
+[DNSDB]       vansant.cs.ucsb.edu,128.111.48.221
+[DNSDB]       chaplin.cs.ucsb.edu,128.111.48.105
+[DNSDB]       shepherd.cs.ucsb.edu,128.111.41.200
+[DNSDB]       bunuel.cs.ucsb.edu,128.111.48.112
+[DNSDB]       wenders.cs.ucsb.edu,128.111.48.108
+[DNSDB]       dreyer.cs.ucsb.edu,128.111.48.118
+[DNSDB]       planet3.cs.ucsb.edu,128.111.52.63
+[DNSDB]       csil.cs.ucsb.edu,128.111.43.14
+[DNSDB]       singer.cs.ucsb.edu,128.111.48.121
+[DNSDB]       dhcp-68-217.cs.ucsb.edu,128.111.68.217
+[DNSDB]       whiley.cs.ucsb.edu,128.111.43.84
+[DNSDB]       dhcp-46-206.cs.ucsb.edu,128.111.46.206
+[DNSDB]       tarantino.cs.ucsb.edu,128.111.48.123
+[DNSDB]       dhcp48-61.cs.ucsb.edu,128.111.48.61
+[DNSDB]       uml.cs.ucsb.edu,128.111.53.94
+[DNSDB]       csworld52.cs.ucsb.edu,128.111.52.1
+[DNSDB]       dhcp-46-220.cs.ucsb.edu,128.111.46.220
+[DNSDB]       cronenberg.cs.ucsb.edu,128.111.48.116
+[DNSDB]       longboard.cs.ucsb.edu,128.111.48.69
+[DNSDB]       cglps.cs.ucsb.edu,128.111.46.50
+[SiteDossier] habitus.cs.ucsb.edu,128.111.41.49
+[DNSDB]       groot.cs.ucsb.edu,128.111.68.218
+[SiteDossier] gauss.cs.ucsb.edu,128.111.40.186
+[DNSDB]       eisenstein.cs.ucsb.edu,128.111.48.56
+[SiteDossier] noatak.cs.ucsb.edu,128.111.52.108
+[DNSDB]       funnies.cs.ucsb.edu,128.111.41.10
+[SiteDossier] link.cs.ucsb.edu,128.111.41.55
+[Forward DNS] nidhogg.cs.ucsb.edu,128.111.41.26
+[Forward DNS] thor.cs.ucsb.edu,128.111.41.55
+[DNSDB]       discover.cs.ucsb.edu,128.111.41.26
+[DNSDB]       wilder.cs.ucsb.edu,128.111.48.102
+[DNSDB]       ford.cs.ucsb.edu,128.111.48.52
+[SiteDossier] majuro.cs.ucsb.edu,128.111.28.77
+[DNSDB]       ictf.cs.ucsb.edu,128.111.48.60
+[DNSDB]       eucalyptus-05.cs.ucsb.edu,128.111.179.135
+[DNSDB]       game.cs.ucsb.edu,128.111.41.37
+[SiteDossier] mmua.cs.ucsb.edu,128.111.41.26
+[DNSDB]       hitchcock.cs.ucsb.edu,128.111.48.114
+[DNSDB]       ilab-109.cs.ucsb.edu,128.111.28.109
+[Forward DNS] pompone.cs.ucsb.edu,128.111.45.35
+[DNSDB]       lynch.cs.ucsb.edu,128.111.48.109
+[DNSDB]       nws.cs.ucsb.edu,128.111.45.35
+[DNSDB]       kitano.cs.ucsb.edu,128.111.48.219
+[DNSDB]       frog.cs.ucsb.edu,128.111.46.177
+[DNSDB]       oakland32-submit.cs.ucsb.edu,128.111.48.12
+[DNSDB]       kurosawa.cs.ucsb.edu,128.111.48.115
+[DNSDB]       jarmusch.cs.ucsb.edu,128.111.48.113
+[DNSDB]       epicfail.cs.ucsb.edu,128.111.48.211
+[DNSDB]       salvatores.cs.ucsb.edu,128.111.48.189
+[DNSDB]       lists.cs.ucsb.edu,128.111.27.31
+[DNSDB]       iguana.cs.ucsb.edu,128.111.46.192
+[DNSDB]       murnau.cs.ucsb.edu,128.111.48.111
+[DNSDB]       objc.cs.ucsb.edu,128.111.55.50
+[DNSDB]       seclab.cs.ucsb.edu,128.111.48.75
+[DNSDB]       shortboard.cs.ucsb.edu,128.111.48.59
+[DNSDB]       self.cs.ucsb.edu,128.111.55.34
+[DNSDB]       kauai.cs.ucsb.edu,128.111.46.54
+[DNSDB]       apple.cs.ucsb.edu,128.111.41.114
+[DNSDB]       allen.cs.ucsb.edu,128.111.48.106
+[DNSDB]       icmi.cs.ucsb.edu,128.111.41.26
+[DNSDB]       griffith.cs.ucsb.edu,128.111.48.24
+[Yahoo]       cse.cs.ucsb.edu,128.111.27.13
+[DNSDB]       js.cs.ucsb.edu,128.111.55.38
+[SiteDossier] acmgis2010.cs.ucsb.edu,128.111.41.26
+[DNSDB]       wachowski.cs.ucsb.edu,128.111.48.104
+[DNSDB]       smith.cs.ucsb.edu,128.111.48.117
+[DNSDB]       www.cs.ucsb.edu,128.111.27.13
+[DNSDB]       spielberg.cs.ucsb.edu,128.111.48.100
+[DNSDB]       wepawet.cs.ucsb.edu,128.111.48.14
+[Ask Scrape]  nlp.cs.ucsb.edu,128.111.68.195
+[DNSDB]       zion.cs.ucsb.edu,128.111.52.118
+[Ask Scrape]  dynamo.cs.ucsb.edu,128.111.27.13
+[SiteDossier] bigbear.cs.ucsb.edu,128.111.52.19
+[SiteDossier] ng2.cs.ucsb.edu,128.111.41.26
+[DNSDB]       sw-935-0101-01.cs.ucsb.edu,128.111.28.66
+[Ask Scrape]  muriteams.cs.ucsb.edu,128.111.27.13
+[SiteDossier] nsfcloud2011.cs.ucsb.edu,128.111.41.26
+[Ask Scrape]  ilab.cs.ucsb.edu,185.199.110.153
+[Bing Scrape] capstone.cs.ucsb.edu,128.111.41.26
+[Bing Scrape] www.arch.cs.ucsb.edu,198.49.23.144
+[Bing Scrape] koclab.cs.ucsb.edu,128.111.41.26
+[Ask Scrape]  cgc.cs.ucsb.edu,128.111.27.13
+[DNSDB]       set.cs.ucsb.edu,128.111.41.38
+[SiteDossier] eucalyptus.cs.ucsb.edu,34.227.175.69
+[Bing Scrape] oakland18.seclab.cs.ucsb.edu,128.111.48.17
+[Forward DNS] reed.seclab.cs.ucsb.edu,128.111.48.17
+[VirusTotal]  jasmine.cs.ucsb.edu,128.111.43.220
+[VirusTotal]  tao-laptop.cs.ucsb.edu,128.111.40.23
+[Brute Force] accounts.cs.ucsb.edu,128.111.43.12
+[VirusTotal]  chuckwalla.cs.ucsb.edu,128.111.52.130
+[VirusTotal]  predictspotprice-beta.cs.ucsb.edu,169.231.235.152
+[VirusTotal]  nmsl.cs.ucsb.edu,128.111.41.26
+[VirusTotal]  william.cs.ucsb.edu,128.111.41.35
+[VirusTotal]  excelsior.cs.ucsb.edu,128.111.54.197
+[VirusTotal]  arch.cs.ucsb.edu,198.49.23.145
+[VirusTotal]  jackson.cs.ucsb.edu,128.111.52.13
+[VirusTotal]  people.cs.ucsb.edu,128.111.27.15
+[VirusTotal]  arrayoftalks.cs.ucsb.edu,128.111.41.26
+[VirusTotal]  gswc.cs.ucsb.edu,128.111.41.26
+[VirusTotal]  gsrc.cs.ucsb.edu,128.111.41.26
+[VirusTotal]  current.cs.ucsb.edu,128.111.41.55
+[VirusTotal]  p2p.cs.ucsb.edu,128.111.41.26
+[VirusTotal]  submit.cs.ucsb.edu,128.111.41.61
+[VirusTotal]  conferences.cs.ucsb.edu,128.111.41.26
+[VirusTotal]  tuscany.cs.ucsb.edu,128.111.41.101
+[VirusTotal]  ccs2016.cs.ucsb.edu,128.111.48.16
+[VirusTotal]  achs.cs.ucsb.edu,128.111.41.26
+[VirusTotal]  predictspotprice.cs.ucsb.edu,169.231.235.184
+[VirusTotal]  vlab.cs.ucsb.edu,128.111.40.81
+[VirusTotal]  chants.cs.ucsb.edu,128.111.41.26
+[Forward DNS] piano.cs.ucsb.edu,128.111.40.81
+[VirusTotal]  goodbye-anubis-wepawet.seclab.cs.ucsb.edu,128.111.48.14
+[VirusTotal]  iptps06.cs.ucsb.edu,128.111.41.26
+[VirusTotal]  ultron.cs.ucsb.edu,128.111.73.14
+[VirusTotal]  slq.cs.ucsb.edu,128.111.54.21
+[VirusTotal]  www.nmsl.cs.ucsb.edu,128.111.41.26
+[VirusTotal]  rogue.cs.ucsb.edu,128.111.41.142
+[VirusTotal]  secindustry.cs.ucsb.edu,128.111.41.26
+[VirusTotal]  git.seclab.cs.ucsb.edu,128.111.48.171
+[VirusTotal]  foo.cs.ucsb.edu,128.111.40.40
+[VirusTotal]  ccs2015.cs.ucsb.edu,128.111.48.64
+[VirusTotal]  matador.cs.ucsb.edu,128.111.44.156
+[VirusTotal]  moment.cack.cs.ucsb.edu,128.111.52.101
+[VirusTotal]  www.ilab.cs.ucsb.edu,185.199.111.153
+[VirusTotal]  freya.cs.ucsb.edu,128.111.41.40
+[Forward DNS] johnson.seclab.cs.ucsb.edu,128.111.48.19
+[VirusTotal]  oakland19.seclab.cs.ucsb.edu,128.111.48.19
+[VirusTotal]  dragonox.cs.ucsb.edu,128.111.41.141
+[VirusTotal]  graphs.cs.ucsb.edu,128.111.41.26
+[VirusTotal]  sandlab.cs.ucsb.edu,128.111.41.55
+[VirusTotal]  grafia.cs.ucsb.edu,128.111.44.173
+[CertSpotter] apptcha.seclab.cs.ucsb.edu,128.111.48.105
+[Forward DNS] craft.cs.ucsb.edu,128.111.44.173
+[CertSpotter] ictf.seclab.cs.ucsb.edu,128.111.48.60
+[CertSpotter] cybersecurity.cs.ucsb.edu,128.111.48.172
+[Forward DNS] cfcs.pages.seclab.cs.ucsb.edu,128.111.48.172
+[CertSpotter] abuse.seclab.cs.ucsb.edu,128.111.48.172
+[Forward DNS] abuse.pages.seclab.cs.ucsb.edu,128.111.48.172
+[CertSpotter] www.cse.cs.ucsb.edu,128.111.27.13
+[FindSubDmns] ilab-vpn.cs.ucsb.edu,128.111.28.70
+[FindSubDmns] acadia.cs.ucsb.edu,128.111.40.84
+[FindSubDmns] ilabsvn.cs.ucsb.edu,128.111.28.72
+[FindSubDmns] vibes.cs.ucsb.edu,128.111.40.107
+[FindSubDmns] visual.cs.ucsb.edu,128.111.28.73
+[FindSubDmns] salinas.cs.ucsb.edu,128.111.28.87
+[FindSubDmns] ivis.cs.ucsb.edu,128.111.28.88
+[FindSubDmns] z.cs.ucsb.edu,128.111.41.47
+[FindSubDmns] grace.cs.ucsb.edu,128.111.40.142
+[FindSubDmns] csil-42.cs.ucsb.edu,128.111.43.62
+[FindSubDmns] cascades.cs.ucsb.edu,128.111.40.150
+[FindSubDmns] menchi.cs.ucsb.edu,128.111.43.86
+[FindSubDmns] fold.cs.ucsb.edu,128.111.41.20
+[FindSubDmns] eagles.cs.ucsb.edu,128.111.41.188
+[FindSubDmns] ilabqueen.cs.ucsb.edu,128.111.28.71
+[FindSubDmns] duke.cs.ucsb.edu,128.111.43.207
+[FindSubDmns] switch-tcl-hp.cs.ucsb.edu,128.111.46.3
+[FindSubDmns] marrow.cs.ucsb.edu,128.111.40.223
+[FindSubDmns] monk.cs.ucsb.edu,128.111.45.61
+[FindSubDmns] hamilton.cs.ucsb.edu,128.111.44.108
+[FindSubDmns] euca20.cs.ucsb.edu,128.111.45.140
+[FindSubDmns] workio.cs.ucsb.edu,128.111.41.241
+[FindSubDmns] cstl-35.cs.ucsb.edu,128.111.43.135
+[FindSubDmns] oshkosh.cs.ucsb.edu,128.111.41.242
+[FindSubDmns] dhcp-46-89.cs.ucsb.edu,128.111.46.89
+[FindSubDmns] dhcp-46-81.cs.ucsb.edu,128.111.46.81
+[FindSubDmns] sydney.cs.ucsb.edu,128.111.46.36
+[FindSubDmns] csil-33.cs.ucsb.edu,128.111.43.53
+[FindSubDmns] csil-43.cs.ucsb.edu,128.111.43.63
+[FindSubDmns] mamba.cs.ucsb.edu,128.111.46.174
+[FindSubDmns] snubfin.cs.ucsb.edu,128.111.45.245
+[FindSubDmns] polly.cs.ucsb.edu,128.111.41.21
+[FindSubDmns] hanshan.cs.ucsb.edu,128.111.41.236
+[FindSubDmns] sylvester.cs.ucsb.edu,128.111.43.75
+[FindSubDmns] dhcp-46-83.cs.ucsb.edu,128.111.46.83
+[FindSubDmns] sponge.cs.ucsb.edu,128.111.41.28
+[FindSubDmns] dizzy.cs.ucsb.edu,128.111.43.200
+[FindSubDmns] myth.cs.ucsb.edu,128.111.44.179
+[FindSubDmns] natasha.cs.ucsb.edu,128.111.43.71
+[FindSubDmns] kure.cs.ucsb.edu,128.111.46.52
+[FindSubDmns] mckinley.cs.ucsb.edu,128.111.44.106
+[FindSubDmns] euca17.cs.ucsb.edu,128.111.45.137
+[FindSubDmns] dhcp-46-82.cs.ucsb.edu,128.111.46.82
+[FindSubDmns] dhcp-46-88.cs.ucsb.edu,128.111.46.88
+[FindSubDmns] lochness.cs.ucsb.edu,128.111.44.167
+[FindSubDmns] maxim.cs.ucsb.edu,128.111.44.185
+[FindSubDmns] parker.cs.ucsb.edu,128.111.43.218
+[FindSubDmns] dhcp-46-92.cs.ucsb.edu,128.111.46.92
+[FindSubDmns] havok.cs.ucsb.edu,128.111.40.239
+[FindSubDmns] dhcp-46-86.cs.ucsb.edu,128.111.46.86
+[FindSubDmns] bo.cs.ucsb.edu,128.111.41.50
+[FindSubDmns] dhcp-46-80.cs.ucsb.edu,128.111.46.80
+[FindSubDmns] basho.cs.ucsb.edu,128.111.41.225
+[FindSubDmns] csil-47.cs.ucsb.edu,128.111.43.67
+[FindSubDmns] stick.cs.ucsb.edu,128.111.46.231
+[FindSubDmns] dhcp-46-87.cs.ucsb.edu,128.111.46.87
+[FindSubDmns] fiction.cs.ucsb.edu,128.111.44.175
+[FindSubDmns] ccs2015-test.cs.ucsb.edu,128.111.48.63
+[FindSubDmns] dhcp-46-98.cs.ucsb.edu,128.111.46.98
+[FindSubDmns] zarqa.cs.ucsb.edu,128.111.46.132
+[FindSubDmns] dhcp-46-97.cs.ucsb.edu,128.111.46.97
+[FindSubDmns] dhcp-46-84.cs.ucsb.edu,128.111.46.84
+[FindSubDmns] sperm.cs.ucsb.edu,128.111.45.14
+[FindSubDmns] csil-32.cs.ucsb.edu,128.111.43.52
+[FindSubDmns] murphy.unfiltered.seclab.cs.ucsb.edu,192.35.222.107
+[FindSubDmns] alex.cs.ucsb.edu,128.111.46.130
+[FindSubDmns] dhcp-54-42.cs.ucsb.edu,128.111.54.42
+[FindSubDmns] abel.cs.ucsb.edu,128.111.46.151
+[FindSubDmns] dhcp-46-94.cs.ucsb.edu,128.111.46.94
+[FindSubDmns] zim.cs.ucsb.edu,128.111.52.119
+[FindSubDmns] dhcp-54-23.cs.ucsb.edu,128.111.54.23
+[FindSubDmns] dhcp-54-59.cs.ucsb.edu,128.111.54.59
+[FindSubDmns] euca-vm-16.cs.ucsb.edu,128.111.179.159
+[FindSubDmns] ns2.seclab.cs.ucsb.edu,128.111.48.254
+[FindSubDmns] dhcp-54-53.cs.ucsb.edu,128.111.54.53
+[FindSubDmns] mwittie.cs.ucsb.edu,128.111.52.235
+[FindSubDmns] dhcp-54-29.cs.ucsb.edu,128.111.54.29
+[FindSubDmns] strawberry.cs.ucsb.edu,128.111.41.119
+[FindSubDmns] iseclab.seclab.cs.ucsb.edu,128.111.48.247
+[FindSubDmns] dhcp-54-50.cs.ucsb.edu,128.111.54.50
+[FindSubDmns] abyss.cs.ucsb.edu,128.111.41.238
+[FindSubDmns] dhcp-46-93.cs.ucsb.edu,128.111.46.93
+[FindSubDmns] dhcp-54-56.cs.ucsb.edu,128.111.54.56
+[FindSubDmns] dhcp-54-36.cs.ucsb.edu,128.111.54.36
+[FindSubDmns] phelps-qed.cs.ucsb.edu,128.111.54.60
+[FindSubDmns] dhcp-54-51.cs.ucsb.edu,128.111.54.51
+[FindSubDmns] dhcp-54-31.cs.ucsb.edu,128.111.54.31
+[FindSubDmns] dhcp-54-38.cs.ucsb.edu,128.111.54.38
+[FindSubDmns] dhcp-54-27.cs.ucsb.edu,128.111.54.27
+[FindSubDmns] dhcp-54-30.cs.ucsb.edu,128.111.54.30
+[FindSubDmns] dhcp-54-26.cs.ucsb.edu,128.111.54.26
+[FindSubDmns] dhcp-54-35.cs.ucsb.edu,128.111.54.35
+[FindSubDmns] gnuradio8.cs.ucsb.edu,128.111.52.88
+[FindSubDmns] slap.seclab.cs.ucsb.edu,128.111.48.212
+[FindSubDmns] dhcp-54-24.cs.ucsb.edu,128.111.54.24
+[FindSubDmns] dhcp-54-25.cs.ucsb.edu,128.111.54.25
+[FindSubDmns] dhcp-54-58.cs.ucsb.edu,128.111.54.58
+[FindSubDmns] dhcp-54-40.cs.ucsb.edu,128.111.54.40
+[FindSubDmns] dhcp-54-33.cs.ucsb.edu,128.111.54.33
+[FindSubDmns] seltzer.unfiltered.seclab.cs.ucsb.edu,192.35.222.12
+[FindSubDmns] trial.cs.ucsb.edu,128.111.41.201
+[FindSubDmns] ns1.seclab.cs.ucsb.edu,128.111.48.253
+[FindSubDmns] euca-vm-20.cs.ucsb.edu,128.111.179.163
+[FindSubDmns] neon.cs.ucsb.edu,128.111.52.214
+[FindSubDmns] dhcp-54-44.cs.ucsb.edu,128.111.54.44
+[FindSubDmns] euca-vm-57.cs.ucsb.edu,128.111.179.200
+[FindSubDmns] pascal.cs.ucsb.edu,128.111.55.52
+[FindSubDmns] euca-vm-97.cs.ucsb.edu,128.111.179.240
+[FindSubDmns] euca-vm-66.cs.ucsb.edu,128.111.179.209
+[FindSubDmns] hulk.cs.ucsb.edu,128.111.73.21
+[FindSubDmns] euca-vm-90.cs.ucsb.edu,128.111.179.233
+[FindSubDmns] dhcp-54-55.cs.ucsb.edu,128.111.54.55
+[FindSubDmns] eucalyptus-12.cs.ucsb.edu,128.111.179.142
+[FindSubDmns] euca-vm-38.cs.ucsb.edu,128.111.179.181
+[FindSubDmns] java.cs.ucsb.edu,128.111.55.24
+[FindSubDmns] euca-vm-35.cs.ucsb.edu,128.111.179.178
+[FindSubDmns] knicks.cs.ucsb.edu,128.111.55.44
+[FindSubDmns] leopard.cs.ucsb.edu,128.111.45.65
+[FindSubDmns] dhcp-46-44.cs.ucsb.edu,128.111.46.44
+[FindSubDmns] dhcp-73-27.cs.ucsb.edu,128.111.73.27
+[FindSubDmns] euca-vm-75.cs.ucsb.edu,128.111.179.218
+[FindSubDmns] iseclab-old.pages.seclab.cs.ucsb.edu,128.111.48.172
+[FindSubDmns] euca-vm-82.cs.ucsb.edu,128.111.179.225
+[FindSubDmns] eucalyptus-02.cs.ucsb.edu,128.111.179.132
+[FindSubDmns] dhcp-46-85.cs.ucsb.edu,128.111.46.85
+[FindSubDmns] euca-vm-24.cs.ucsb.edu,128.111.179.167
+[FindSubDmns] hornets.cs.ucsb.edu,128.111.55.43
+[FindSubDmns] komodo.cs.ucsb.edu,128.111.46.184
+[FindSubDmns] dhcp-46-96.cs.ucsb.edu,128.111.46.96
+[FindSubDmns] kingcobra.cs.ucsb.edu,128.111.46.181
+[FindSubDmns] octopi.cs.ucsb.edu,128.111.46.227
+[Brute Force] apps.cs.ucsb.edu,128.111.41.26
+[FindSubDmns] dhcp-54-46.cs.ucsb.edu,128.111.54.46
+[FindSubDmns] dhcp-54-47.cs.ucsb.edu,128.111.54.47
+[FindSubDmns] dhcp-54-37.cs.ucsb.edu,128.111.54.37
+[FindSubDmns] dhcp-54-52.cs.ucsb.edu,128.111.54.52
+[FindSubDmns] dhcp-54-45.cs.ucsb.edu,128.111.54.45
+[FindSubDmns] gnuradio1.cs.ucsb.edu,128.111.52.81
+[FindSubDmns] dhcp-46-95.cs.ucsb.edu,128.111.46.95
+[FindSubDmns] becker.unfiltered.seclab.cs.ucsb.edu,192.35.222.24
+[FindSubDmns] dhcp-54-22.cs.ucsb.edu,128.111.54.22
+[FindSubDmns] dhcp-54-39.cs.ucsb.edu,128.111.54.39
+[FindSubDmns] dhcp-46-90.cs.ucsb.edu,128.111.46.90
+[FindSubDmns] dhcp-54-43.cs.ucsb.edu,128.111.54.43
+[FindSubDmns] dhcp-54-28.cs.ucsb.edu,128.111.54.28
+[FindSubDmns] dhcp-46-99.cs.ucsb.edu,128.111.46.99
+[FindSubDmns] dhcp-54-41.cs.ucsb.edu,128.111.54.41
+[FindSubDmns] airlab.cs.ucsb.edu,128.111.52.72
+[FindSubDmns] dhcp-73-26.cs.ucsb.edu,128.111.73.26
+[FindSubDmns] dhcp-54-54.cs.ucsb.edu,128.111.54.54
+[FindSubDmns] dhcp-73-29.cs.ucsb.edu,128.111.73.29
+[FindSubDmns] soprano.cs.ucsb.edu,128.111.40.27
+[FindSubDmns] dhcp-54-32.cs.ucsb.edu,128.111.54.32
+[FindSubDmns] dhcp-54-34.cs.ucsb.edu,128.111.54.34
+[FindSubDmns] tech-vmil.cs.ucsb.edu,128.111.54.194
+[FindSubDmns] dhcp-54-48.cs.ucsb.edu,128.111.54.48
+[FindSubDmns] namor.cs.ucsb.edu,128.111.73.13
+[FindSubDmns] tarheels.cs.ucsb.edu,128.111.68.173
+[FindSubDmns] dhcp-73-28.cs.ucsb.edu,128.111.73.28
+[FindSubDmns] dhcp-54-57.cs.ucsb.edu,128.111.54.57
+[FindSubDmns] wecode.cs.ucsb.edu,128.111.84.165
+[FindSubDmns] dhcp-46-91.cs.ucsb.edu,128.111.46.91
+[FindSubDmns] dhcp-54-49.cs.ucsb.edu,128.111.54.49
+[FindSubDmns] villagenet.cs.ucsb.edu,128.111.52.10
+[Brute Force] autodiscover.cs.ucsb.edu,128.111.41.20
+[Brute Force] beta.cs.ucsb.edu,128.111.41.25
+[Brute Force] blue.cs.ucsb.edu,128.111.45.251
+[Brute Force] brazil.cs.ucsb.edu,128.111.41.126
+[Brute Force] cf.cs.ucsb.edu,128.111.54.10
+[Brute Force] cluster.cs.ucsb.edu,128.111.40.70
+[Brute Force] cocoa.cs.ucsb.edu,128.111.43.196
+[Alterations] ilab-100.cs.ucsb.edu,128.111.28.100
+[Alterations] ilab-101.cs.ucsb.edu,128.111.28.101
+[Alterations] ilab-103.cs.ucsb.edu,128.111.28.103
+[Alterations] ilab-104.cs.ucsb.edu,128.111.28.104
+[Alterations] ilab-102.cs.ucsb.edu,128.111.28.102
+[Alterations] ilab-105.cs.ucsb.edu,128.111.28.105
+[Alterations] ilab-106.cs.ucsb.edu,128.111.28.106
+[Alterations] ilab-107.cs.ucsb.edu,128.111.28.107
+[Alterations] ilab-108.cs.ucsb.edu,128.111.28.108
+[Alterations] iguana2.cs.ucsb.edu,128.111.46.195
+[Alterations] csworld40.cs.ucsb.edu,128.111.40.2
+[Alterations] dhcp-41-220.cs.ucsb.edu,128.111.41.220
+[Alterations] dhcp-46-200.cs.ucsb.edu,128.111.46.200
+[Alterations] planet6.cs.ucsb.edu,128.111.52.59
+[Alterations] planet5.cs.ucsb.edu,128.111.52.58
+[Alterations] dhcp-41-221.cs.ucsb.edu,128.111.41.221
+[Alterations] dhcp-46-211.cs.ucsb.edu,128.111.46.211
+[Alterations] dhcp-46-201.cs.ucsb.edu,128.111.46.201
+[Alterations] dhcp-46-202.cs.ucsb.edu,128.111.46.202
+[Alterations] dhcp-46-212.cs.ucsb.edu,128.111.46.212
+[Alterations] dhcp-41-202.cs.ucsb.edu,128.111.41.202
+[Alterations] dhcp-41-223.cs.ucsb.edu,128.111.41.223
+[Alterations] csworld43.cs.ucsb.edu,128.111.43.1
+[Alterations] dhcp-41-203.cs.ucsb.edu,128.111.41.203
+[Alterations] dhcp-46-203.cs.ucsb.edu,128.111.46.203
+[Alterations] dhcp-46-213.cs.ucsb.edu,128.111.46.213
+[Alterations] csworld44.cs.ucsb.edu,128.111.44.2
+[Alterations] si2.cs.ucsb.edu,128.111.43.243
+[Alterations] dhcp-46-214.cs.ucsb.edu,128.111.46.214
+[Alterations] dhcp-46-205.cs.ucsb.edu,128.111.46.205
+[Alterations] dhcp-41-204.cs.ucsb.edu,128.111.41.204
+[Alterations] dhcp-46-204.cs.ucsb.edu,128.111.46.204
+[Forward DNS] gw-oit-544c.cs.ucsb.edu,128.111.45.1
+[Alterations] csworld45.cs.ucsb.edu,128.111.45.1
+[Alterations] dhcp-41-205.cs.ucsb.edu,128.111.41.205
+[Alterations] dhcp-46-215.cs.ucsb.edu,128.111.46.215
+[Alterations] csworld46.cs.ucsb.edu,128.111.46.2
+[Alterations] dhcp-41-207.cs.ucsb.edu,128.111.41.207
+[Alterations] dhcp-46-216.cs.ucsb.edu,128.111.46.216
+[Alterations] dhcp-46-207.cs.ucsb.edu,128.111.46.207
+[Alterations] dhcp-46-217.cs.ucsb.edu,128.111.46.217
+[Forward DNS] sanders.cs.ucsb.edu,128.111.48.223
+[Alterations] spam3.cs.ucsb.edu,128.111.48.223
+[Alterations] spam1.cs.ucsb.edu,192.35.222.220
+[Alterations] spam5.cs.ucsb.edu,128.111.48.225
+[Alterations] dhcp-46-208.cs.ucsb.edu,128.111.46.208
+[Alterations] dhcp-41-208.cs.ucsb.edu,128.111.41.208
+[Alterations] dhcp-46-218.cs.ucsb.edu,128.111.46.218
+[Alterations] dhcp-46-209.cs.ucsb.edu,128.111.46.209
+[Alterations] dhcp-41-209.cs.ucsb.edu,128.111.41.209
+[Alterations] dhcp-46-219.cs.ucsb.edu,128.111.46.219
+[Alterations] dhcp-52-170.cs.ucsb.edu,128.111.52.170
+[Alterations] dhcp-55-200.cs.ucsb.edu,128.111.55.200
+[Alterations] dhcp-55-201.cs.ucsb.edu,128.111.55.201
+[Alterations] dhcp-55-202.cs.ucsb.edu,128.111.55.202
+[Alterations] dhcp-52-173.cs.ucsb.edu,128.111.52.173
+[Alterations] dhcp-55-203.cs.ucsb.edu,128.111.55.203
+[Alterations] dhcp-55-204.cs.ucsb.edu,128.111.55.204
+[Alterations] dhcp-52-174.cs.ucsb.edu,128.111.52.174
+[Alterations] csworld55.cs.ucsb.edu,128.111.55.1
+[Alterations] dhcp-52-175.cs.ucsb.edu,128.111.52.175
+[Alterations] dhcp-55-206.cs.ucsb.edu,128.111.55.206
+[Alterations] dhcp-52-172.cs.ucsb.edu,128.111.52.172
+[Alterations] dhcp-52-176.cs.ucsb.edu,128.111.52.176
+[Alterations] dhcp-55-207.cs.ucsb.edu,128.111.55.207
+[Alterations] dhcp-52-177.cs.ucsb.edu,128.111.52.177
+[Alterations] dhcp-52-178.cs.ucsb.edu,128.111.52.178
+[Alterations] dhcp-52-179.cs.ucsb.edu,128.111.52.179
+[Alterations] dhcp-55-209.cs.ucsb.edu,128.111.55.209
+[Alterations] dhcp-68-210.cs.ucsb.edu,128.111.68.210
+[Alterations] dhcp-55-208.cs.ucsb.edu,128.111.55.208
+[Alterations] dhcp-68-213.cs.ucsb.edu,128.111.68.213
+[Alterations] dhcp-68-216.cs.ucsb.edu,128.111.68.216
+[Alterations] dhcp-68-215.cs.ucsb.edu,128.111.68.215
+[Alterations] dhcp-68-219.cs.ucsb.edu,128.111.68.219
+[Alterations] csworld73.cs.ucsb.edu,128.111.73.1
+[Alterations] csworld.cs.ucsb.edu,128.111.41.2
+[Alterations] ilab-90.cs.ucsb.edu,128.111.28.90
+[Alterations] eucalyptus-00.cs.ucsb.edu,128.111.179.130
+[Alterations] eucalyptus-01.cs.ucsb.edu,128.111.179.131
+[Alterations] eucalyptus-03.cs.ucsb.edu,128.111.179.133
+[Alterations] eucalyptus-04.cs.ucsb.edu,128.111.179.134
+[Alterations] dhcp-46-222.cs.ucsb.edu,128.111.46.222
+[Alterations] eucalyptus-06.cs.ucsb.edu,128.111.179.136
+[Alterations] dhcp-46-221.cs.ucsb.edu,128.111.46.221
+[Alterations] eucalyptus-07.cs.ucsb.edu,128.111.179.137
+[Alterations] dhcp-46-224.cs.ucsb.edu,128.111.46.224
+[Alterations] eucalyptus-08.cs.ucsb.edu,128.111.179.138
+[Alterations] dhcp-46-223.cs.ucsb.edu,128.111.46.223
+[Alterations] eucalyptus-09.cs.ucsb.edu,128.111.179.139
+[Alterations] dhcp-46-225.cs.ucsb.edu,128.111.46.225
+[Alterations] eucalyptus-10.cs.ucsb.edu,128.111.179.140
+[Alterations] eucalyptus-11.cs.ucsb.edu,128.111.179.141
+[Reverse DNS] mendes.seclab.cs.ucsb.edu,128.111.48.61
+[Reverse DNS] obsidian.cs.ucsb.edu,128.111.45.42
+[Reverse DNS] longboard.seclab.cs.ucsb.edu,128.111.48.69
+[Reverse DNS] ccs2015.seclab.cs.ucsb.edu,128.111.48.64
+[Reverse DNS] dhcp-52-164.cs.ucsb.edu,128.111.52.164
+[Reverse DNS] perso-yans.seclab.cs.ucsb.edu,128.111.48.84
+[Forward DNS] _smtp._tcp.cs.ucsb.edu,128.111.160.151
+[Forward DNS] _submission._tcp.cs.ucsb.edu,128.111.160.151
+[Reverse DNS] ipv6farm.seclab.cs.ucsb.edu,128.111.48.104
+[Reverse DNS] chaplin.seclab.cs.ucsb.edu,128.111.48.112
+[Reverse DNS] besson.seclab.cs.ucsb.edu,128.111.48.75
+[Reverse DNS] luna.seclab.cs.ucsb.edu,128.111.48.139
+[Reverse DNS] csil-22.cs.ucsb.edu,128.111.43.42
+[Brute Force] dev.cs.ucsb.edu,128.111.27.8
+[Reverse DNS] csil-23.cs.ucsb.edu,128.111.43.43
+[Reverse DNS] csil-24.cs.ucsb.edu,128.111.43.44
+[Reverse DNS] csil-25.cs.ucsb.edu,128.111.43.45
+[Reverse DNS] csil-34.cs.ucsb.edu,128.111.43.54
+[Reverse DNS] problemtest.cs.ucsb.edu,128.111.43.46
+[Reverse DNS] csil-27.cs.ucsb.edu,128.111.43.47
+[Reverse DNS] csil-29.cs.ucsb.edu,128.111.43.49
+[Reverse DNS] csil-31.cs.ucsb.edu,128.111.43.51
+[Reverse DNS] csil-35.cs.ucsb.edu,128.111.43.55
+[Reverse DNS] csil-36.cs.ucsb.edu,128.111.43.56
+[Reverse DNS] csil-30.cs.ucsb.edu,128.111.43.50
+[Reverse DNS] csil-38.cs.ucsb.edu,128.111.43.58
+[Reverse DNS] csil-28.cs.ucsb.edu,128.111.43.48
+[Reverse DNS] csil-39.cs.ucsb.edu,128.111.43.59
+[Reverse DNS] csil-37.cs.ucsb.edu,128.111.43.57
+[Reverse DNS] csil-40.cs.ucsb.edu,128.111.43.60
+[Reverse DNS] csil-46.cs.ucsb.edu,128.111.43.66
+[Reverse DNS] csil-41.cs.ucsb.edu,128.111.43.61
+[Reverse DNS] csil-45.cs.ucsb.edu,128.111.43.65
+[Reverse DNS] csil-48.cs.ucsb.edu,128.111.43.68
+[Reverse DNS] bullwinkle.cs.ucsb.edu,128.111.43.72
+[Reverse DNS] csil-44.cs.ucsb.edu,128.111.43.64
+[Reverse DNS] csil-26.cs.ucsb.edu,128.111.43.70
+[Reverse DNS] tweety.cs.ucsb.edu,128.111.43.76
+[Reverse DNS] pixie.cs.ucsb.edu,128.111.43.69
+[Reverse DNS] cartman.cs.ucsb.edu,128.111.43.77
+[Reverse DNS] kenny.cs.ucsb.edu,128.111.43.78
+[Reverse DNS] stan.cs.ucsb.edu,128.111.43.79
+[Reverse DNS] kyle.cs.ucsb.edu,128.111.43.80
+[Reverse DNS] chef.cs.ucsb.edu,128.111.43.81
+[Reverse DNS] pepe.cs.ucsb.edu,128.111.43.83
+[Reverse DNS] elroy.cs.ucsb.edu,128.111.43.82
+[Reverse DNS] fum.cs.ucsb.edu,128.111.43.85
+[Reverse DNS] csil-submit1.cs.ucsb.edu,128.111.43.89
+[Reverse DNS] vma-43.cs.ucsb.edu,128.111.43.88
+[Reverse DNS] csil-submit2.cs.ucsb.edu,128.111.43.90
+[Reverse DNS] nirvana.cs.ucsb.edu,128.111.43.87
+[Reverse DNS] csil-submit3.cs.ucsb.edu,128.111.43.91
+[Reverse DNS] submit-jenkins.cs.ucsb.edu,128.111.43.93
+[Reverse DNS] csil-submit4.cs.ucsb.edu,128.111.43.92
+[Reverse DNS] rocky.cs.ucsb.edu,128.111.43.73
+[Reverse DNS] vm3-43.cs.ucsb.edu,128.111.43.99
+[Alterations] sw-935-0101-02.cs.ucsb.edu,128.111.28.68
+[Reverse DNS] cstl-02.cs.ucsb.edu,128.111.43.102
+[Reverse DNS] cstl-00.cs.ucsb.edu,128.111.43.100
+[Reverse DNS] cstl-01.cs.ucsb.edu,128.111.43.101
+[Brute Force] e.panlexia.com,72.167.218.183
+[Brute Force] e.panlexia.org,97.74.135.148
+[Reverse DNS] cstl-09.cs.ucsb.edu,128.111.43.109
+[Reverse DNS] cstl-10.cs.ucsb.edu,128.111.43.110
+[Reverse DNS] cstl-20.cs.ucsb.edu,128.111.43.120
+[Brute Force] e.albapropertiessb.com,97.74.135.55
+[Reverse DNS] cstl-05.cs.ucsb.edu,128.111.43.105
+[Reverse DNS] cstl-28.cs.ucsb.edu,128.111.43.128
+[Reverse DNS] cstl-22.cs.ucsb.edu,128.111.43.122
+[Reverse DNS] cstl-24.cs.ucsb.edu,128.111.43.124
+[Brute Force] email.albapropertiessb.com,97.74.135.45
+[Reverse DNS] cstl-04.cs.ucsb.edu,128.111.43.104
+[Reverse DNS] cstl-08.cs.ucsb.edu,128.111.43.108
+[Reverse DNS] cstl-07.cs.ucsb.edu,128.111.43.107
+[Reverse DNS] cstl-27.cs.ucsb.edu,128.111.43.127
+[Reverse DNS] cstl-31.cs.ucsb.edu,128.111.43.131
+[Brute Force] email.panlexia.com,72.167.218.45
+[Reverse DNS] cstl-26.cs.ucsb.edu,128.111.43.126
+[Reverse DNS] cstl-33.cs.ucsb.edu,128.111.43.133
+[Reverse DNS] cstl-11.cs.ucsb.edu,128.111.43.111
+[Reverse DNS] cstl-23.cs.ucsb.edu,128.111.43.123
+[Reverse DNS] cstl-12.cs.ucsb.edu,128.111.43.112
+[Reverse DNS] cstl-14.cs.ucsb.edu,128.111.43.114
+[Brute Force] email.panlexia.org,173.201.192.5
+[Reverse DNS] cstl-03.cs.ucsb.edu,128.111.43.103
+[Reverse DNS] cstl-15.cs.ucsb.edu,128.111.43.115
+[Reverse DNS] cstl-18.cs.ucsb.edu,128.111.43.118
+[Reverse DNS] cstl-06.cs.ucsb.edu,128.111.43.106
+[Reverse DNS] cstl-29.cs.ucsb.edu,128.111.43.129
+[Reverse DNS] cstl-16.cs.ucsb.edu,128.111.43.116
+[Reverse DNS] cstl-13.cs.ucsb.edu,128.111.43.113
+[Reverse DNS] cstl-25.cs.ucsb.edu,128.111.43.125
+[Brute Force] es.cs.ucsb.edu,128.111.54.14
+[Reverse DNS] cstl-17.cs.ucsb.edu,128.111.43.117
+[Reverse DNS] cstl-21.cs.ucsb.edu,128.111.43.121
+[Reverse DNS] cstl-19.cs.ucsb.edu,128.111.43.119
+[Reverse DNS] cstl-32.cs.ucsb.edu,128.111.43.132
+[Reverse DNS] cstl-34.cs.ucsb.edu,128.111.43.134
+[Reverse DNS] cstl-30.cs.ucsb.edu,128.111.43.130
+[Brute Force] fox.cs.ucsb.edu,128.111.40.75
+[Brute Force] ftp.panlexia.com,184.168.221.45
+[Forward DNS] panlexia.com,184.168.221.45
+[Forward DNS] albapropertiessb.com,50.63.202.26
+[Brute Force] ftp.albapropertiessb.com,50.63.202.26
+[Forward DNS] panlexia.org,184.168.221.50
+[Brute Force] ftp.panlexia.org,184.168.221.50
+[Brute Force] ftp.kristinandgiovanni.com,216.250.120.20
+[Reverse DNS] taichi.cs.ucsb.edu,128.111.54.195
+[Brute Force] george.cs.ucsb.edu,128.111.68.194
+[Reverse DNS] altair.cs.ucsb.edu,128.111.54.199
+[Reverse DNS] polgas.cs.ucsb.edu,128.111.54.198
+[Reverse DNS] gw-556-3152c-09.cs.ucsb.edu,128.111.54.193
+[Reverse DNS] kalabaw.cs.ucsb.edu,128.111.54.201
+[Alterations] nmsl1.cs.ucsb.edu,128.111.52.55
+[Reverse DNS] happy.cs.ucsb.edu,128.111.54.196
+[Reverse DNS] honeysuckle.cs.ucsb.edu,128.111.54.204
+[Brute Force] hal.cs.ucsb.edu,128.111.41.19
+[Brute Force] imap.panlexia.org,68.178.252.221
+[Brute Force] imap.panlexia.com,68.178.252.117
+[Brute Force] imap.albapropertiessb.com,72.167.218.138
+[Brute Force] in.cs.ucsb.edu,128.111.54.12
+[Reverse DNS] 535-eb1.cs.ucsb.edu,128.111.52.12
+[Reverse DNS] bigsky.cs.ucsb.edu,128.111.52.15
+[Reverse DNS] bear.cs.ucsb.edu,128.111.52.22
+[Reverse DNS] moment-gbv.cs.ucsb.edu,128.111.52.11
+[Reverse DNS] beech.cs.ucsb.edu,128.111.52.36
+[Reverse DNS] planetlab-power1.cs.ucsb.edu,128.111.52.60
+[Reverse DNS] airlab3.cs.ucsb.edu,128.111.52.71
+[Reverse DNS] gnuradio3.cs.ucsb.edu,128.111.52.83
+[Reverse DNS] gnuradio5.cs.ucsb.edu,128.111.52.85
+[Reverse DNS] gnuradio7.cs.ucsb.edu,128.111.52.87
+[Reverse DNS] gnuradio6.cs.ucsb.edu,128.111.52.86
+[Reverse DNS] gnuradio10.cs.ucsb.edu,128.111.52.90
+[Reverse DNS] gnuradio11.cs.ucsb.edu,128.111.52.91
+[Reverse DNS] redwood.cs.ucsb.edu,128.111.52.115
+[Reverse DNS] gnuradio12.cs.ucsb.edu,128.111.52.92
+[Reverse DNS] mildrid.cs.ucsb.edu,128.111.52.103
+[Reverse DNS] harpers.cs.ucsb.edu,128.111.52.107
+[Reverse DNS] olympic.cs.ucsb.edu,128.111.52.116
+[Reverse DNS] gnuradio9.cs.ucsb.edu,128.111.52.89
+[Reverse DNS] meshnet.cs.ucsb.edu,128.111.52.112
+[Reverse DNS] fjords.cs.ucsb.edu,128.111.52.109
+[Reverse DNS] springs.cs.ucsb.edu,128.111.52.105
+[Reverse DNS] joshua.cs.ucsb.edu,128.111.52.110
+[Reverse DNS] tortugas.cs.ucsb.edu,128.111.52.120
+[Reverse DNS] badlands.cs.ucsb.edu,128.111.52.102
+[Reverse DNS] nest-52-133.cs.ucsb.edu,128.111.52.133
+[Reverse DNS] nest-52-131.cs.ucsb.edu,128.111.52.131
+[Reverse DNS] nest-52-132.cs.ucsb.edu,128.111.52.132
+[Reverse DNS] nest-52-134.cs.ucsb.edu,128.111.52.134
+[Reverse DNS] nest-52-136.cs.ucsb.edu,128.111.52.136
+[Reverse DNS] nest-52-138.cs.ucsb.edu,128.111.52.138
+[Reverse DNS] nest-52-135.cs.ucsb.edu,128.111.52.135
+[Reverse DNS] nest-52-139.cs.ucsb.edu,128.111.52.139
+[Reverse DNS] nest-52-140.cs.ucsb.edu,128.111.52.140
+[Reverse DNS] dhcp-52-151.cs.ucsb.edu,128.111.52.151
+[Reverse DNS] dhcp-52-150.cs.ucsb.edu,128.111.52.150
+[Reverse DNS] dhcp-52-152.cs.ucsb.edu,128.111.52.152
+[Brute Force] loghost.cs.ucsb.edu,128.111.27.17
+[Reverse DNS] dhcp-52-156.cs.ucsb.edu,128.111.52.156
+[Reverse DNS] dhcp-52-155.cs.ucsb.edu,128.111.52.155
+[Reverse DNS] dhcp-52-158.cs.ucsb.edu,128.111.52.158
+[Reverse DNS] dhcp-52-157.cs.ucsb.edu,128.111.52.157
+[Reverse DNS] dhcp-52-160.cs.ucsb.edu,128.111.52.160
+[Brute Force] ci.seclab.cs.ucsb.edu,128.111.48.171
+[Reverse DNS] dhcp-52-162.cs.ucsb.edu,128.111.52.162
+[Reverse DNS] dhcp-52-161.cs.ucsb.edu,128.111.52.161
+[Reverse DNS] ccs2016.seclab.cs.ucsb.edu,128.111.48.16
+[Reverse DNS] dhcp-52-159.cs.ucsb.edu,128.111.52.159
+[Reverse DNS] dhcp-52-163.cs.ucsb.edu,128.111.52.163
+[Reverse DNS] eric.seclab.cs.ucsb.edu,128.111.48.20
+[Reverse DNS] nest-52-137.cs.ucsb.edu,128.111.52.137
+[Reverse DNS] dhcp-52-154.cs.ucsb.edu,128.111.52.154
+[Brute Force] mail.panlexia.com,68.178.252.117
+[Brute Force] mail.panlexia.org,173.201.193.97
+[Brute Force] mail.albapropertiessb.com,72.167.218.138
+[Brute Force] mailhost.cs.ucsb.edu,128.111.27.18
+[Brute Force] mars.cs.ucsb.edu,128.111.41.167
+[Brute Force] mercury.cs.ucsb.edu,128.111.46.33
+[Reverse DNS] perso-antoniob.seclab.cs.ucsb.edu,128.111.48.154
+[Brute Force] mississippi.cs.ucsb.edu,128.111.44.239
+[Brute Force] mobilemail.panlexia.com,173.201.193.5
+[Brute Force] monitor.cs.ucsb.edu,128.111.46.183
+[Reverse DNS] aldan.cs.ucsb.edu,128.111.44.236
+[Brute Force] mobilemail.panlexia.org,173.201.193.5
+[Reverse DNS] gediz.cs.ucsb.edu,128.111.44.237
+[Reverse DNS] euphrates.cs.ucsb.edu,128.111.44.238
+[Reverse DNS] pacific.cs.ucsb.edu,128.111.44.241
+[Reverse DNS] dslps.cs.ucsb.edu,128.111.44.245
+[Reverse DNS] ambujps.cs.ucsb.edu,128.111.44.247
+[Reverse DNS] iot-public-workstation.seclab.cs.ucsb.edu,128.111.48.18
+[Reverse DNS] dblps.cs.ucsb.edu,128.111.44.253
+[Reverse DNS] papyrus.cs.ucsb.edu,128.111.44.244
+[Brute Force] nat.cs.ucsb.edu,128.111.43.216
+[Reverse DNS] martian.cs.ucsb.edu,128.111.45.13
+[Reverse DNS] fin.cs.ucsb.edu,128.111.45.20
+[Reverse DNS] bryde.cs.ucsb.edu,128.111.45.19
+[Reverse DNS] bowhead.cs.ucsb.edu,128.111.45.21
+[Brute Force] neptune.cs.ucsb.edu,128.111.46.34
+[Reverse DNS] minion.cs.ucsb.edu,128.111.45.24
+[Reverse DNS] desmo2.cs.ucsb.edu,128.111.45.25
+[Reverse DNS] desmo4.cs.ucsb.edu,128.111.45.26
+[Reverse DNS] dmitrii.cs.ucsb.edu,128.111.45.27
+[Reverse DNS] pilot.cs.ucsb.edu,128.111.45.31
+[Reverse DNS] spinner.cs.ucsb.edu,128.111.45.32
+[Brute Force] newton.cs.ucsb.edu,128.111.46.154
+[Reverse DNS] striped.cs.ucsb.edu,128.111.45.33
+[Reverse DNS] gray.cs.ucsb.edu,128.111.45.16
+[Reverse DNS] loggerhead.cs.ucsb.edu,128.111.45.36
+[Reverse DNS] bottlenose.cs.ucsb.edu,128.111.45.30
+[Reverse DNS] euca1.cs.ucsb.edu,128.111.45.37
+[Reverse DNS] euca2.cs.ucsb.edu,128.111.45.38
+[Reverse DNS] euca3.cs.ucsb.edu,128.111.45.39
+[Reverse DNS] euca4.cs.ucsb.edu,128.111.45.40
+[Reverse DNS] dmitriisr.cs.ucsb.edu,128.111.45.29
+[Reverse DNS] dmitriijr.cs.ucsb.edu,128.111.45.28
+[Reverse DNS] racedev1.cs.ucsb.edu,128.111.45.34
+[Reverse DNS] euca5.cs.ucsb.edu,128.111.45.41
+[Brute Force] odin.cs.ucsb.edu,128.111.41.41
+[Reverse DNS] nidhogg-43.cs.ucsb.edu,128.111.43.11
+[Reverse DNS] sw-556-1138.cs.ucsb.edu,128.111.43.2
+[Reverse DNS] sw-931-101.cs.ucsb.edu,128.111.43.4
+[Brute Force] old.cs.ucsb.edu,128.111.41.26
+[Reverse DNS] csil-02.cs.ucsb.edu,128.111.43.22
+[Reverse DNS] csil-01.cs.ucsb.edu,128.111.43.21
+[Reverse DNS] csil-07.cs.ucsb.edu,128.111.43.27
+[Reverse DNS] csil-03.cs.ucsb.edu,128.111.43.23
+[Reverse DNS] csil-08.cs.ucsb.edu,128.111.43.28
+[Reverse DNS] csil-12.cs.ucsb.edu,128.111.43.32
+[Reverse DNS] csil-04.cs.ucsb.edu,128.111.43.24
+[Reverse DNS] csil-11.cs.ucsb.edu,128.111.43.31
+[Reverse DNS] csil-13.cs.ucsb.edu,128.111.43.33
+[Reverse DNS] csil-14.cs.ucsb.edu,128.111.43.34
+[Reverse DNS] csil-05.cs.ucsb.edu,128.111.43.25
+[Reverse DNS] csil-06.cs.ucsb.edu,128.111.43.26
+[Reverse DNS] csil-17.cs.ucsb.edu,128.111.43.37
+[Reverse DNS] csil-15.cs.ucsb.edu,128.111.43.35
+[Reverse DNS] csil-20.cs.ucsb.edu,128.111.43.40
+[Reverse DNS] csil-21.cs.ucsb.edu,128.111.43.41
+[Reverse DNS] csil-19.cs.ucsb.edu,128.111.43.39
+[Reverse DNS] greenlantern.cs.ucsb.edu,128.111.43.10
+[Reverse DNS] csil-00.cs.ucsb.edu,128.111.43.20
+[Reverse DNS] csil-09.cs.ucsb.edu,128.111.43.29
+[Reverse DNS] csil-18.cs.ucsb.edu,128.111.43.38
+[Reverse DNS] csil-16.cs.ucsb.edu,128.111.43.36
+[Reverse DNS] csil-10.cs.ucsb.edu,128.111.43.30
+[Reverse DNS] zeus.cs.ucsb.edu,128.111.41.15
+[Reverse DNS] hirschel.cs.ucsb.edu,128.111.41.17
+[Reverse DNS] hibiscus.cs.ucsb.edu,128.111.41.18
+[Reverse DNS] galahad.cs.ucsb.edu,128.111.41.78
+[Reverse DNS] dolly.cs.ucsb.edu,128.111.41.22
+[Reverse DNS] hum.cs.ucsb.edu,128.111.41.23
+[Reverse DNS] diver.cs.ucsb.edu,128.111.41.29
+[Reverse DNS] mink.cs.ucsb.edu,128.111.41.30
+[Reverse DNS] camel.cs.ucsb.edu,128.111.41.27
+[Brute Force] pda.panlexia.org,173.201.193.5
+[Brute Force] pda.panlexia.com,173.201.193.5
+[Reverse DNS] alice.cs.ucsb.edu,128.111.41.34
+[Brute Force] pda.albapropertiessb.com,173.201.193.5
+[Reverse DNS] t-rex.cs.ucsb.edu,128.111.41.32
+[Reverse DNS] match.cs.ucsb.edu,128.111.41.39
+[Reverse DNS] web.cs.ucsb.edu,128.111.41.36
+[Reverse DNS] slick.cs.ucsb.edu,128.111.41.42
+[Reverse DNS] castor.cs.ucsb.edu,128.111.41.44
+[Reverse DNS] pollux.cs.ucsb.edu,128.111.41.45
+[Reverse DNS] frigga.cs.ucsb.edu,128.111.41.46
+[Reverse DNS] jenkins.cs.ucsb.edu,128.111.41.31
+[Reverse DNS] smokey.cs.ucsb.edu,128.111.41.51
+[Reverse DNS] tigger.cs.ucsb.edu,128.111.41.48
+[Reverse DNS] joker.cs.ucsb.edu,128.111.41.53
+[Reverse DNS] batman.cs.ucsb.edu,128.111.41.54
+[Reverse DNS] escher.cs.ucsb.edu,128.111.41.60
+[Reverse DNS] sanjuan.cs.ucsb.edu,128.111.41.43
+[Alterations] euca10.cs.ucsb.edu,128.111.45.130
+[Alterations] euca11.cs.ucsb.edu,128.111.45.131
+[Reverse DNS] ragnarok.cs.ucsb.edu,128.111.41.63
+[Reverse DNS] craps.cs.ucsb.edu,128.111.41.71
+[Reverse DNS] leopard-wm.cs.ucsb.edu,128.111.41.62
+[Reverse DNS] yadayadayada.cs.ucsb.edu,128.111.41.70
+[Alterations] euca18.cs.ucsb.edu,128.111.45.138
+[Alterations] euca13.cs.ucsb.edu,128.111.45.133
+[Alterations] euca14.cs.ucsb.edu,128.111.45.134
+[Brute Force] pop.panlexia.org,173.201.193.97
+[Alterations] euca19.cs.ucsb.edu,128.111.45.139
+[Brute Force] pm.cs.ucsb.edu,128.111.54.13
+[Reverse DNS] panther.cs.ucsb.edu,128.111.41.66
+[Alterations] euca15.cs.ucsb.edu,128.111.45.135
+[Reverse DNS] ydingps.cs.ucsb.edu,128.111.41.52
+[Brute Force] pop.panlexia.com,97.74.135.10
+[Alterations] euca16.cs.ucsb.edu,128.111.45.136
+[Brute Force] pop.albapropertiessb.com,173.201.193.97
+[Alterations] euca21.cs.ucsb.edu,128.111.45.141
+[Reverse DNS] olive.cs.ucsb.edu,128.111.41.76
+[Reverse DNS] spare.cs.ucsb.edu,128.111.41.77
+[Reverse DNS] walnut.cs.ucsb.edu,128.111.41.113
+[Alterations] euca22.cs.ucsb.edu,128.111.45.142
+[Alterations] euca24.cs.ucsb.edu,128.111.45.144
+[Alterations] euca23.cs.ucsb.edu,128.111.45.143
+[Brute Force] firewall.seclab.cs.ucsb.edu,128.111.48.252
+[Alterations] euca25.cs.ucsb.edu,128.111.45.145
+[Reverse DNS] pub1.cs.ucsb.edu,128.111.41.81
+[Alterations] euca26.cs.ucsb.edu,128.111.45.146
+[Alterations] euca27.cs.ucsb.edu,128.111.45.147
+[Reverse DNS] pub2.cs.ucsb.edu,128.111.41.82
+[Reverse DNS] pub3.cs.ucsb.edu,128.111.41.83
+[Alterations] euca28.cs.ucsb.edu,128.111.45.148
+[Alterations] euca29.cs.ucsb.edu,128.111.45.149
+[Reverse DNS] priv2.cs.ucsb.edu,128.111.41.85
+[Alterations] euca31.cs.ucsb.edu,128.111.45.151
+[Alterations] euca30.cs.ucsb.edu,128.111.45.150
+[Reverse DNS] priv3.cs.ucsb.edu,128.111.41.86
+[Alterations] euca32.cs.ucsb.edu,128.111.45.152
+[Alterations] euca33.cs.ucsb.edu,128.111.45.153
+[Reverse DNS] creamsicle.cs.ucsb.edu,128.111.41.87
+[Reverse DNS] anteater.cs.ucsb.edu,128.111.41.33
+[Alterations] euca-vm-00.cs.ucsb.edu,128.111.179.143
+[Alterations] gnuradio2.cs.ucsb.edu,128.111.52.82
+[Alterations] euca-vm-01.cs.ucsb.edu,128.111.179.144
+[Reverse DNS] bar.cs.ucsb.edu,128.111.41.95
+[Reverse DNS] elephant.cs.ucsb.edu,128.111.41.80
+[Alterations] euca-vm-02.cs.ucsb.edu,128.111.179.145
+[Alterations] euca-vm-03.cs.ucsb.edu,128.111.179.146
+[Alterations] euca-vm-04.cs.ucsb.edu,128.111.179.147
+[Alterations] euca-vm-05.cs.ucsb.edu,128.111.179.148
+[Reverse DNS] vm3-41.cs.ucsb.edu,128.111.41.99
+[Reverse DNS] sachin.cs.ucsb.edu,128.111.41.102
+[Alterations] euca-vm-06.cs.ucsb.edu,128.111.179.149
+[Alterations] euca-vm-07.cs.ucsb.edu,128.111.179.150
+[Reverse DNS] glomer.cs.ucsb.edu,128.111.41.103
+[Alterations] euca-vm-08.cs.ucsb.edu,128.111.179.151
+[Alterations] euca-vm-09.cs.ucsb.edu,128.111.179.152
+[Reverse DNS] priv1.cs.ucsb.edu,128.111.41.84
+[Alterations] euca-vm-10.cs.ucsb.edu,128.111.179.153
+[Alterations] euca-vm-11.cs.ucsb.edu,128.111.179.154
+[Reverse DNS] armadillo.cs.ucsb.edu,128.111.41.107
+[Alterations] euca-vm-12.cs.ucsb.edu,128.111.179.155
+[Alterations] euca-vm-13.cs.ucsb.edu,128.111.179.156
+[Reverse DNS] peanut.cs.ucsb.edu,128.111.41.111
+[Reverse DNS] lrrr.cs.ucsb.edu,128.111.41.110
+[Alterations] euca-vm-14.cs.ucsb.edu,128.111.179.157
+[Alterations] euca-vm-15.cs.ucsb.edu,128.111.179.158
+[Alterations] euca-vm-17.cs.ucsb.edu,128.111.179.160
+[Reverse DNS] kiwi.cs.ucsb.edu,128.111.41.115
+[Alterations] euca-vm-18.cs.ucsb.edu,128.111.179.161
+[Reverse DNS] mango.cs.ucsb.edu,128.111.41.116
+[Alterations] euca-vm-19.cs.ucsb.edu,128.111.179.162
+[Reverse DNS] papaya.cs.ucsb.edu,128.111.41.117
+[Reverse DNS] pineapple.cs.ucsb.edu,128.111.41.118
+[Alterations] euca-vm-21.cs.ucsb.edu,128.111.179.164
+[Alterations] euca-vm-22.cs.ucsb.edu,128.111.179.165
+[Reverse DNS] banana.cs.ucsb.edu,128.111.41.120
+[Alterations] euca-vm-23.cs.ucsb.edu,128.111.179.166
+[Brute Force] projects.cs.ucsb.edu,128.111.41.26
+[Reverse DNS] pecan.cs.ucsb.edu,128.111.41.123
+[Alterations] euca-vm-25.cs.ucsb.edu,128.111.179.168
+[Alterations] euca-vm-26.cs.ucsb.edu,128.111.179.169
+[Reverse DNS] raisin.cs.ucsb.edu,128.111.41.122
+[Alterations] euca-vm-27.cs.ucsb.edu,128.111.179.170
+[Reverse DNS] ginkgo.cs.ucsb.edu,128.111.41.125
+[Alterations] euca-vm-29.cs.ucsb.edu,128.111.179.172
+[Alterations] euca-vm-30.cs.ucsb.edu,128.111.179.173
+[Reverse DNS] pistachio.cs.ucsb.edu,128.111.41.128
+[Reverse DNS] cashew.cs.ucsb.edu,128.111.41.124
+[Reverse DNS] fig.cs.ucsb.edu,128.111.41.127
+[Alterations] euca-vm-31.cs.ucsb.edu,128.111.179.174
+[Alterations] euca-vm-28.cs.ucsb.edu,128.111.179.171
+[Alterations] euca6.cs.ucsb.edu,128.111.45.44
+[Alterations] euca-vm-32.cs.ucsb.edu,128.111.179.175
+[Alterations] euca-vm-33.cs.ucsb.edu,128.111.179.176
+[Reverse DNS] lowtalker.cs.ucsb.edu,128.111.41.130
+[Alterations] euca-vm-34.cs.ucsb.edu,128.111.179.177
+[Alterations] euca-vm-36.cs.ucsb.edu,128.111.179.179
+[Alterations] euca-vm-37.cs.ucsb.edu,128.111.179.180
+[Reverse DNS] bert.cs.ucsb.edu,128.111.41.139
+[Alterations] euca-vm-39.cs.ucsb.edu,128.111.179.182
+[Alterations] euca-vm-40.cs.ucsb.edu,128.111.179.183
+[Reverse DNS] cherry.cs.ucsb.edu,128.111.41.121
+[Alterations] euca7.cs.ucsb.edu,128.111.45.45
+[Alterations] euca-vm-41.cs.ucsb.edu,128.111.179.184
+[Reverse DNS] tech-lp.cs.ucsb.edu,128.111.41.131
+[Reverse DNS] grappa.cs.ucsb.edu,128.111.41.134
+[Reverse DNS] tentacool.cs.ucsb.edu,128.111.41.138
+[Alterations] euca-vm-42.cs.ucsb.edu,128.111.179.185
+[Alterations] euca-vm-43.cs.ucsb.edu,128.111.179.186
+[Reverse DNS] sups.cs.ucsb.edu,128.111.41.140
+[Alterations] euca-vm-44.cs.ucsb.edu,128.111.179.187
+[Alterations] euca-vm-45.cs.ucsb.edu,128.111.179.188
+[Alterations] euca-vm-46.cs.ucsb.edu,128.111.179.189
+[Alterations] euca-vm-47.cs.ucsb.edu,128.111.179.190
+[Alterations] euca-vm-48.cs.ucsb.edu,128.111.179.191
+[Alterations] euca-vm-49.cs.ucsb.edu,128.111.179.192
+[Alterations] euca8.cs.ucsb.edu,128.111.45.46
+[Alterations] euca-vm-50.cs.ucsb.edu,128.111.179.193
+[Alterations] euca-vm-51.cs.ucsb.edu,128.111.179.194
+[Alterations] euca-vm-52.cs.ucsb.edu,128.111.179.195
+[Reverse DNS] dhcp-41-214.cs.ucsb.edu,128.111.41.214
+[Alterations] euca-vm-53.cs.ucsb.edu,128.111.179.196
+[Alterations] euca9.cs.ucsb.edu,128.111.45.129
+[Brute Force] radio.gravital.org,12.107.18.131
+[Reverse DNS] folsom.cs.ucsb.edu,128.111.41.152
+[Reverse DNS] chairlap.cs.ucsb.edu,128.111.41.153
+[Alterations] euca-vm-58.cs.ucsb.edu,128.111.179.201
+[Reverse DNS] dhcp-41-195.cs.ucsb.edu,128.111.41.195
+[Alterations] euca-vm-59.cs.ucsb.edu,128.111.179.202
+[Alterations] euca-vm-54.cs.ucsb.edu,128.111.179.197
+[Alterations] euca-vm-56.cs.ucsb.edu,128.111.179.199
+[Alterations] euca-vm-60.cs.ucsb.edu,128.111.179.203
+[Alterations] euca-vm-55.cs.ucsb.edu,128.111.179.198
+[Reverse DNS] he.cs.ucsb.edu,128.111.41.157
+[Reverse DNS] irix.cs.ucsb.edu,128.111.41.151
+[Alterations] euca-vm-61.cs.ucsb.edu,128.111.179.204
+[Alterations] euca-vm-62.cs.ucsb.edu,128.111.179.205
+[Reverse DNS] wink.cs.ucsb.edu,128.111.41.159
+[Alterations] euca-vm-63.cs.ucsb.edu,128.111.179.206
+[Alterations] euca-vm-64.cs.ucsb.edu,128.111.179.207
+[Alterations] euca-vm-65.cs.ucsb.edu,128.111.179.208
+[Alterations] euca-vm-67.cs.ucsb.edu,128.111.179.210
+[Alterations] euca-vm-68.cs.ucsb.edu,128.111.179.211
+[Alterations] euca-vm-69.cs.ucsb.edu,128.111.179.212
+[Reverse DNS] bones.cs.ucsb.edu,128.111.41.161
+[Reverse DNS] almond.cs.ucsb.edu,128.111.41.112
+[Alterations] euca-vm-70.cs.ucsb.edu,128.111.179.213
+[Reverse DNS] turkps.cs.ucsb.edu,128.111.41.162
+[Alterations] euca-vm-71.cs.ucsb.edu,128.111.179.214
+[Alterations] euca-vm-72.cs.ucsb.edu,128.111.179.215
+[Reverse DNS] edna.cs.ucsb.edu,128.111.41.168
+[Alterations] euca-vm-73.cs.ucsb.edu,128.111.179.216
+[Alterations] dhcp-73-25.cs.ucsb.edu,128.111.73.25
+[Alterations] euca-vm-76.cs.ucsb.edu,128.111.179.219
+[Alterations] euca-vm-74.cs.ucsb.edu,128.111.179.217
+[Alterations] euca-vm-77.cs.ucsb.edu,128.111.179.220
+[Reverse DNS] delphi.cs.ucsb.edu,128.111.41.169
+[Alterations] euca-vm-78.cs.ucsb.edu,128.111.179.221
+[Reverse DNS] compass.cs.ucsb.edu,128.111.41.170
+[Reverse DNS] pops.cs.ucsb.edu,128.111.41.171
+[Alterations] euca-vm-79.cs.ucsb.edu,128.111.179.222
+[Reverse DNS] soundgarden.cs.ucsb.edu,128.111.41.173
+[Alterations] euca-vm-80.cs.ucsb.edu,128.111.179.223
+[Reverse DNS] rattler.cs.ucsb.edu,128.111.41.160
+[Reverse DNS] tool.cs.ucsb.edu,128.111.41.172
+[Reverse DNS] slurpee.cs.ucsb.edu,128.111.41.158
+[Alterations] euca-vm-81.cs.ucsb.edu,128.111.179.224
+[Reverse DNS] morbo.cs.ucsb.edu,128.111.41.180
+[Alterations] euca-vm-84.cs.ucsb.edu,128.111.179.227
+[Alterations] euca-vm-83.cs.ucsb.edu,128.111.179.226
+[Alterations] euca-vm-85.cs.ucsb.edu,128.111.179.228
+[Alterations] euca-vm-86.cs.ucsb.edu,128.111.179.229
+[Alterations] euca-vm-87.cs.ucsb.edu,128.111.179.230
+[Alterations] euca-vm-88.cs.ucsb.edu,128.111.179.231
+[Reverse DNS] epiphone.cs.ucsb.edu,128.111.41.184
+[Alterations] euca-vm-89.cs.ucsb.edu,128.111.179.232
+[Alterations] euca-vm-91.cs.ucsb.edu,128.111.179.234
+[Reverse DNS] casino.cs.ucsb.edu,128.111.41.186
+[Reverse DNS] cavs.cs.ucsb.edu,128.111.41.187
+[Alterations] euca-vm-92.cs.ucsb.edu,128.111.179.235
+[Alterations] euca-vm-94.cs.ucsb.edu,128.111.179.237
+[Reverse DNS] munch.cs.ucsb.edu,128.111.41.193
+[Reverse DNS] mulholland.cs.ucsb.edu,128.111.41.192
+[Alterations] euca-vm-95.cs.ucsb.edu,128.111.179.238
+[Alterations] euca-vm-96.cs.ucsb.edu,128.111.179.239
+[Alterations] euca-vm-93.cs.ucsb.edu,128.111.179.236
+[Alterations] euca-vm-98.cs.ucsb.edu,128.111.179.241
+[Reverse DNS] dhcp-41-194.cs.ucsb.edu,128.111.41.194
+[Alterations] euca-vm-99.cs.ucsb.edu,128.111.179.242
+[Reverse DNS] walrus.cs.ucsb.edu,128.111.45.60
+[Reverse DNS] dhcp-41-196.cs.ucsb.edu,128.111.41.196
+[Reverse DNS] dhcp-41-198.cs.ucsb.edu,128.111.41.198
+[Reverse DNS] demo41.cs.ucsb.edu,128.111.41.199
+[Reverse DNS] crabeater.cs.ucsb.edu,128.111.45.62
+[Reverse DNS] token.cs.ucsb.edu,128.111.41.150
+[Reverse DNS] bearded.cs.ucsb.edu,128.111.45.63
+[Reverse DNS] monica.cs.ucsb.edu,128.111.41.154
+[Reverse DNS] dhcp-41-197.cs.ucsb.edu,128.111.41.197
+[Reverse DNS] hooded.cs.ucsb.edu,128.111.45.64
+[Reverse DNS] dhcp-41-211.cs.ucsb.edu,128.111.41.211
+[Reverse DNS] dhcp-41-210.cs.ucsb.edu,128.111.41.210
+[Reverse DNS] dhcp-41-212.cs.ucsb.edu,128.111.41.212
+[Reverse DNS] beluga.cs.ucsb.edu,128.111.45.51
+[Reverse DNS] stuff.cs.ucsb.edu,128.111.45.43
+[Reverse DNS] narwhal.cs.ucsb.edu,128.111.45.55
+[Reverse DNS] humpback.cs.ucsb.edu,128.111.45.53
+[Reverse DNS] dolphin.cs.ucsb.edu,128.111.45.52
+[Reverse DNS] porpoise.cs.ucsb.edu,128.111.45.57
+[Reverse DNS] raven.cs.ucsb.edu,128.111.45.81
+[Reverse DNS] manatee.cs.ucsb.edu,128.111.45.54
+[Reverse DNS] valnure.cs.ucsb.edu,128.111.45.95
+[Reverse DNS] charcoal.cs.ucsb.edu,128.111.45.82
+[Reverse DNS] seal.cs.ucsb.edu,128.111.45.58
+[Reverse DNS] blackhole.cs.ucsb.edu,128.111.45.86
+[Reverse DNS] basalt.cs.ucsb.edu,128.111.45.87
+[Reverse DNS] noir.cs.ucsb.edu,128.111.45.88
+[Reverse DNS] ash.cs.ucsb.edu,128.111.45.89
+[Reverse DNS] cisa.cs.ucsb.edu,128.111.45.96
+[Reverse DNS] carbon.cs.ucsb.edu,128.111.45.85
+[Reverse DNS] sealion.cs.ucsb.edu,128.111.45.59
+[Brute Force] smtp.cs.ucsb.edu,128.111.53.4
+[Brute Force] smtp.panlexia.org,68.178.213.203
+[Brute Force] smtp.panlexia.com,68.178.213.37
+[Reverse DNS] dhcp-45-112.cs.ucsb.edu,128.111.45.112
+[Reverse DNS] dhcp-45-111.cs.ucsb.edu,128.111.45.111
+[Reverse DNS] dhcp-45-115.cs.ucsb.edu,128.111.45.115
+[Brute Force] smtp.albapropertiessb.com,68.178.213.37
+[Reverse DNS] dhcp-45-113.cs.ucsb.edu,128.111.45.113
+[Reverse DNS] dhcp-45-118.cs.ucsb.edu,128.111.45.118
+[Reverse DNS] dhcp-45-121.cs.ucsb.edu,128.111.45.121
+[Reverse DNS] dhcp-45-110.cs.ucsb.edu,128.111.45.110
+[Reverse DNS] dhcp-45-117.cs.ucsb.edu,128.111.45.117
+[Reverse DNS] dhcp-45-120.cs.ucsb.edu,128.111.45.120
+[Reverse DNS] dhcp-45-119.cs.ucsb.edu,128.111.45.119
+[Reverse DNS] dhcp-45-123.cs.ucsb.edu,128.111.45.123
+[Reverse DNS] dhcp-45-122.cs.ucsb.edu,128.111.45.122
+[Reverse DNS] dhcp-45-114.cs.ucsb.edu,128.111.45.114
+[Reverse DNS] dhcp-45-125.cs.ucsb.edu,128.111.45.125
+[Reverse DNS] angelcrest.cs.ucsb.edu,128.111.45.155
+[Reverse DNS] uplink.seclab.cs.ucsb.edu,128.111.48.2
+[Reverse DNS] php.cs.ucsb.edu,128.111.55.39
+[Reverse DNS] tutor.cs.ucsb.edu,128.111.43.195
+[Reverse DNS] chai.cs.ucsb.edu,128.111.43.198
+[Reverse DNS] ella.cs.ucsb.edu,128.111.43.201
+[Reverse DNS] satchmo.cs.ucsb.edu,128.111.43.202
+[Reverse DNS] miles.cs.ucsb.edu,128.111.43.204
+[Brute Force] switch.cs.ucsb.edu,128.111.41.5
+[Reverse DNS] dinah.cs.ucsb.edu,128.111.43.205
+[Reverse DNS] cab.cs.ucsb.edu,128.111.43.208
+[Reverse DNS] muddy.cs.ucsb.edu,128.111.43.209
+[Reverse DNS] didley.cs.ucsb.edu,128.111.43.212
+[Brute Force] syslog.cs.ucsb.edu,128.111.27.17
+[Reverse DNS] joplin.cs.ucsb.edu,128.111.43.213
+[Reverse DNS] chubby.cs.ucsb.edu,128.111.43.214
+[Reverse DNS] dorsey.cs.ucsb.edu,128.111.43.217
+[Reverse DNS] bird.cs.ucsb.edu,128.111.43.203
+[Reverse DNS] bean.cs.ucsb.edu,128.111.43.199
+[Reverse DNS] miller.cs.ucsb.edu,128.111.43.215
+[Reverse DNS] fats.cs.ucsb.edu,128.111.43.211
+[Brute Force] tech.cs.ucsb.edu,128.111.41.26
+[Reverse DNS] coltrane.cs.ucsb.edu,128.111.43.210
+[Reverse DNS] blind.cs.ucsb.edu,128.111.43.219
+[Reverse DNS] in2.cs.ucsb.edu,128.111.43.241
+[Reverse DNS] csilps.cs.ucsb.edu,128.111.43.245
+[Reverse DNS] taps.cs.ucsb.edu,128.111.43.247
+[Reverse DNS] cf2.cs.ucsb.edu,128.111.43.242
+[Reverse DNS] gslps.cs.ucsb.edu,128.111.43.246
+[Reverse DNS] switch44.cs.ucsb.edu,128.111.44.3
+[Brute Force] trinity.cs.ucsb.edu,128.111.28.83
+[Reverse DNS] sarswati.cs.ucsb.edu,128.111.44.27
+[Reverse DNS] kenai.cs.ucsb.edu,128.111.40.163
+[Reverse DNS] ruby.cs.ucsb.edu,128.111.55.21
+[Reverse DNS] vision-pr.cs.ucsb.edu,128.111.54.253
+[Reverse DNS] sw-556-3152c-10.cs.ucsb.edu,128.111.55.2
+[Reverse DNS] sw-556-3152c-08.cs.ucsb.edu,128.111.55.8
+[Reverse DNS] sw-556-3152c-03.cs.ucsb.edu,128.111.55.9
+[Reverse DNS] python.cs.ucsb.edu,128.111.55.22
+[Reverse DNS] tclps.cs.ucsb.edu,128.111.54.254
+[Reverse DNS] chapel.cs.ucsb.edu,128.111.55.26
+[Reverse DNS] cpp.cs.ucsb.edu,128.111.55.23
+[Reverse DNS] x10.cs.ucsb.edu,128.111.55.27
+[Reverse DNS] perl.cs.ucsb.edu,128.111.55.28
+[Reverse DNS] csharp.cs.ucsb.edu,128.111.55.30
+[Reverse DNS] ocaml.cs.ucsb.edu,128.111.55.29
+[Brute Force] dev.cse.cs.ucsb.edu,128.111.41.47
+[Reverse DNS] lisp.cs.ucsb.edu,128.111.55.33
+[Brute Force] webmail.panlexia.org,97.74.135.55
+[Reverse DNS] sei.cs.ucsb.edu,128.111.55.16
+[Brute Force] webmail.panlexia.com,173.201.193.20
+[Reverse DNS] right.cs.ucsb.edu,128.111.55.18
+[Reverse DNS] minke.cs.ucsb.edu,128.111.55.17
+[Reverse DNS] sisal.cs.ucsb.edu,128.111.55.32
+[Brute Force] webmail.albapropertiessb.com,173.201.192.5
+[Reverse DNS] lambert.cs.ucsb.edu,128.111.40.171
+[Reverse DNS] erlang.cs.ucsb.edu,128.111.55.37
+[Reverse DNS] clojure.cs.ucsb.edu,128.111.55.36
+[Reverse DNS] bobcats.cs.ucsb.edu,128.111.55.19
+[Reverse DNS] racestorage.cs.ucsb.edu,128.111.55.20
+[Reverse DNS] fsharp.cs.ucsb.edu,128.111.55.31
+[Reverse DNS] killer.cs.ucsb.edu,128.111.55.15
+[Reverse DNS] proctor.cs.ucsb.edu,128.111.43.193
+[Reverse DNS] psyduck.cs.ucsb.edu,128.111.40.172
+[Reverse DNS] phelps2510.cs.ucsb.edu,128.111.43.192
+[Reverse DNS] mentor.cs.ucsb.edu,128.111.43.194
+[Reverse DNS] squeak.cs.ucsb.edu,128.111.55.40
+[Reverse DNS] scala.cs.ucsb.edu,128.111.55.25
+[Brute Force] white.cs.ucsb.edu,128.111.45.253
+[Reverse DNS] dexter.cs.ucsb.edu,128.111.40.170
+[Reverse DNS] wizards.cs.ucsb.edu,128.111.55.41
+[Reverse DNS] bulls.cs.ucsb.edu,128.111.55.42
+[Reverse DNS] suns.cs.ucsb.edu,128.111.55.46
+[Reverse DNS] rockets.cs.ucsb.edu,128.111.55.47
+[Reverse DNS] mavs.cs.ucsb.edu,128.111.55.48
+[Reverse DNS] magic.cs.ucsb.edu,128.111.55.45
+[Reverse DNS] lakers.cs.ucsb.edu,128.111.55.49
+[Reverse DNS] scratch.cs.ucsb.edu,128.111.55.54
+[Reverse DNS] oz.cs.ucsb.edu,128.111.55.51
+[Reverse DNS] nuc1.cs.ucsb.edu,128.111.55.55
+[Reverse DNS] scheme.cs.ucsb.edu,128.111.55.53
+[Brute Force] www.panlexia.org,184.168.221.50
+[Brute Force] www.panlexia.com,184.168.221.45
+[Brute Force] www.gravital.org,12.107.18.131
+[Brute Force] www.kristinandgiovanni.com,216.250.120.20
+[Brute Force] www.biobisque.org,52.10.60.166
+[Forward DNS] biobisque.org,52.10.60.166
+[Forward DNS] cybergrandchallenge.us,50.63.202.15
+[Brute Force] www.cybergrandchallenge.us,50.63.202.15
+[Brute Force] www.albapropertiessb.com,50.63.202.26
+[Brute Force] www.ieee-icnp.org,128.111.41.26
+[Reverse DNS] race-gw.cs.ucsb.edu,128.111.68.161
+[Reverse DNS] heat.cs.ucsb.edu,128.111.68.163
+[Reverse DNS] sixers.cs.ucsb.edu,128.111.68.166
+[Reverse DNS] clippers.cs.ucsb.edu,128.111.68.167
+[Reverse DNS] twolves.cs.ucsb.edu,128.111.68.171
+[Reverse DNS] warriors.cs.ucsb.edu,128.111.68.168
+[Reverse DNS] celtics.cs.ucsb.edu,128.111.68.169
+[Reverse DNS] dhcp68-176.cs.ucsb.edu,128.111.68.176
+[Reverse DNS] dhcp68-174.cs.ucsb.edu,128.111.68.174
+[Reverse DNS] race-sw.cs.ucsb.edu,128.111.68.164
+[Reverse DNS] dhcp68-177.cs.ucsb.edu,128.111.68.177
+[Reverse DNS] dhcp68-180.cs.ucsb.edu,128.111.68.180
+[Reverse DNS] dhcp68-182.cs.ucsb.edu,128.111.68.182
+[Reverse DNS] hawks.cs.ucsb.edu,128.111.68.165
+[Reverse DNS] dhcp68-185.cs.ucsb.edu,128.111.68.185
+[Reverse DNS] dhcp68-183.cs.ucsb.edu,128.111.68.183
+[Reverse DNS] dhcp68-184.cs.ucsb.edu,128.111.68.184
+[Reverse DNS] dhcp68-181.cs.ucsb.edu,128.111.68.181
+[Reverse DNS] dhcp68-186.cs.ucsb.edu,128.111.68.186
+[Reverse DNS] dhcp68-189.cs.ucsb.edu,128.111.68.189
+[Reverse DNS] nets.cs.ucsb.edu,128.111.68.172
+[Reverse DNS] dhcp68-179.cs.ucsb.edu,128.111.68.179
+[Brute Force] firewall.unfiltered.seclab.cs.ucsb.edu,192.35.222.252
+[Reverse DNS] dhcp68-188.cs.ucsb.edu,128.111.68.188
+[Reverse DNS] dhcp68-190.cs.ucsb.edu,128.111.68.190
+[Reverse DNS] dhcp68-175.cs.ucsb.edu,128.111.68.175
+[Reverse DNS] cgl-gw.cs.ucsb.edu,128.111.68.193
+[Reverse DNS] dhcp68-178.cs.ucsb.edu,128.111.68.178
+[Reverse DNS] dhcp-68-200.cs.ucsb.edu,128.111.68.200
+[Reverse DNS] nlp-mfp.cs.ucsb.edu,128.111.68.197
+[Reverse DNS] dhcp-68-199.cs.ucsb.edu,128.111.68.199
+[Reverse DNS] dhcp-68-203.cs.ucsb.edu,128.111.68.203
+[Reverse DNS] dhcp68-187.cs.ucsb.edu,128.111.68.187
+[Reverse DNS] dhcp-68-204.cs.ucsb.edu,128.111.68.204
+[Reverse DNS] dhcp-68-202.cs.ucsb.edu,128.111.68.202
+[Reverse DNS] dhcp-68-207.cs.ucsb.edu,128.111.68.207
+[Reverse DNS] dhcp-68-201.cs.ucsb.edu,128.111.68.201
+[Reverse DNS] dhcp-68-208.cs.ucsb.edu,128.111.68.208
+[Reverse DNS] dhcp-68-206.cs.ucsb.edu,128.111.68.206
+[Reverse DNS] dhcp-68-209.cs.ucsb.edu,128.111.68.209
+[Reverse DNS] dhcp-68-222.cs.ucsb.edu,128.111.68.222
+[Reverse DNS] dhcp-68-221.cs.ucsb.edu,128.111.68.221
+[Reverse DNS] dhcp-68-220.cs.ucsb.edu,128.111.68.220
+[Reverse DNS] kobe.cs.ucsb.edu,128.111.68.205
+[Reverse DNS] gpu3.cs.ucsb.edu,128.111.68.196
+[Reverse DNS] dhcp-68-198.cs.ucsb.edu,128.111.68.198
+[Reverse DNS] dhcp-40-196.cs.ucsb.edu,128.111.40.196
+[Reverse DNS] dhcp-40-191.cs.ucsb.edu,128.111.40.191
+[Reverse DNS] dhcp-40-195.cs.ucsb.edu,128.111.40.195
+[Reverse DNS] dhcp-40-200.cs.ucsb.edu,128.111.40.200
+[Reverse DNS] dhcp-40-192.cs.ucsb.edu,128.111.40.192
+[Reverse DNS] dhcp-40-203.cs.ucsb.edu,128.111.40.203
+[Reverse DNS] dhcp-40-205.cs.ucsb.edu,128.111.40.205
+[Reverse DNS] neumann.cs.ucsb.edu,128.111.40.188
+[Reverse DNS] dhcp-40-197.cs.ucsb.edu,128.111.40.197
+[Reverse DNS] cyclops.cs.ucsb.edu,128.111.40.217
+[Reverse DNS] dhcp-40-198.cs.ucsb.edu,128.111.40.198
+[Reverse DNS] dhcp-40-208.cs.ucsb.edu,128.111.40.208
+[Reverse DNS] dhcp-40-190.cs.ucsb.edu,128.111.40.190
+[Reverse DNS] dhcp-40-199.cs.ucsb.edu,128.111.40.199
+[Reverse DNS] dhcp-40-207.cs.ucsb.edu,128.111.40.207
+[Reverse DNS] dhcp-40-201.cs.ucsb.edu,128.111.40.201
+[Reverse DNS] sentinel.cs.ucsb.edu,128.111.40.210
+[Reverse DNS] dhcp-40-193.cs.ucsb.edu,128.111.40.193
+[Reverse DNS] magneto.cs.ucsb.edu,128.111.40.213
+[Reverse DNS] dhcp-40-206.cs.ucsb.edu,128.111.40.206
+[Reverse DNS] gambit.cs.ucsb.edu,128.111.40.222
+[Reverse DNS] iceman.cs.ucsb.edu,128.111.40.214
+[Reverse DNS] dhcp-40-202.cs.ucsb.edu,128.111.40.202
+[Reverse DNS] storm.cs.ucsb.edu,128.111.40.221
+[Reverse DNS] wolverine.cs.ucsb.edu,128.111.40.219
+[Reverse DNS] beast.cs.ucsb.edu,128.111.40.220
+[Reverse DNS] unkrich.unfiltered.seclab.cs.ucsb.edu,192.35.222.120
+[Reverse DNS] dhcp-40-204.cs.ucsb.edu,128.111.40.204
+[Reverse DNS] professorx.cs.ucsb.edu,128.111.40.212
+[Reverse DNS] cluster2.cs.ucsb.edu,128.111.40.211
+[Reverse DNS] psylocke.cs.ucsb.edu,128.111.40.224
+[Reverse DNS] guitar.cs.ucsb.edu,128.111.40.86
+[Reverse DNS] archangel.cs.ucsb.edu,128.111.40.216
+[Reverse DNS] moral.cs.ucsb.edu,128.111.44.191
+[Reverse DNS] blob.cs.ucsb.edu,128.111.40.232
+[Reverse DNS] pamina.cs.ucsb.edu,128.111.46.123
+[Reverse DNS] dhcp-46-133.cs.ucsb.edu,128.111.46.133
+[Reverse DNS] arches.cs.ucsb.edu,128.111.40.87
+[Reverse DNS] taops.cs.ucsb.edu,128.111.46.131
+[Reverse DNS] wuhan.cs.ucsb.edu,128.111.46.134
+[Reverse DNS] hangzhou.cs.ucsb.edu,128.111.46.135
+[Reverse DNS] trumpet.cs.ucsb.edu,128.111.40.88
+[Reverse DNS] yosemite.cs.ucsb.edu,128.111.40.103
+[Reverse DNS] taops1.cs.ucsb.edu,128.111.46.139
+[Reverse DNS] beefcake.cs.ucsb.edu,128.111.40.102
+[Reverse DNS] caffeine.cs.ucsb.edu,128.111.40.101
+[Reverse DNS] dhcp-44-201.cs.ucsb.edu,128.111.44.201
+[Reverse DNS] taoadapter.cs.ucsb.edu,128.111.46.136
+[Reverse DNS] dhcp-44-200.cs.ucsb.edu,128.111.44.200
+[Reverse DNS] pikachu.cs.ucsb.edu,128.111.46.103
+[Reverse DNS] dhcp-44-206.cs.ucsb.edu,128.111.44.206
+[Reverse DNS] dhcp-44-203.cs.ucsb.edu,128.111.44.203
+[Reverse DNS] dhcp-44-202.cs.ucsb.edu,128.111.44.202
+[Reverse DNS] dhcp-44-204.cs.ucsb.edu,128.111.44.204
+[Reverse DNS] dhcp-44-205.cs.ucsb.edu,128.111.44.205
+[Reverse DNS] chto.cs.ucsb.edu,128.111.46.100
+[Reverse DNS] osmanthus.cs.ucsb.edu,128.111.46.101
+[Reverse DNS] riemann.cs.ucsb.edu,128.111.46.152
+[Reverse DNS] dhcp-44-210.cs.ucsb.edu,128.111.44.210
+[Reverse DNS] egret.cs.ucsb.edu,128.111.46.150
+[Reverse DNS] alkhwarizmi.cs.ucsb.edu,128.111.46.155
+[Reverse DNS] uplink.unfiltered.seclab.cs.ucsb.edu,192.35.222.1
+[Reverse DNS] cauchy.cs.ucsb.edu,128.111.46.153
+[Reverse DNS] silberling.unfiltered.seclab.cs.ucsb.edu,192.35.222.13
+[Reverse DNS] dhcp-44-212.cs.ucsb.edu,128.111.44.212
+[Reverse DNS] tcllab01.cs.ucsb.edu,128.111.46.104
+[Reverse DNS] dhcp-44-213.cs.ucsb.edu,128.111.44.213
+[Reverse DNS] condon.unfiltered.seclab.cs.ucsb.edu,192.35.222.21
+[Reverse DNS] dreadnought.cs.ucsb.edu,128.111.45.234
+[Brute Force] vpn.seclab.cs.ucsb.edu,128.111.48.251
+[Reverse DNS] dhcp-44-207.cs.ucsb.edu,128.111.44.207
+[Reverse DNS] dhcp-44-208.cs.ucsb.edu,128.111.44.208
+[Brute Force] ns1.unfiltered.seclab.cs.ucsb.edu,192.35.222.253
+[Reverse DNS] deltoro.unfiltered.seclab.cs.ucsb.edu,192.35.222.142
+[Reverse DNS] schnabel.unfiltered.seclab.cs.ucsb.edu,192.35.222.11
+[Reverse DNS] savage.unfiltered.seclab.cs.ucsb.edu,192.35.222.10
+[Reverse DNS] sabertooth.cs.ucsb.edu,128.111.40.238
+[Reverse DNS] euca-46-167.cs.ucsb.edu,128.111.46.167
+[Reverse DNS] polaris.cs.ucsb.edu,128.111.40.241
+[Reverse DNS] dhcp-44-211.cs.ucsb.edu,128.111.44.211
+[Reverse DNS] frears.unfiltered.seclab.cs.ucsb.edu,192.35.222.16
+[Reverse DNS] foley.unfiltered.seclab.cs.ucsb.edu,192.35.222.14
+[Reverse DNS] dhcp-44-209.cs.ucsb.edu,128.111.44.209
+[Reverse DNS] banshee.cs.ucsb.edu,128.111.40.242
+[Reverse DNS] friedberg.unfiltered.seclab.cs.ucsb.edu,192.35.222.17
+[Reverse DNS] cannonball.cs.ucsb.edu,128.111.40.240
+[Reverse DNS] chelsom.unfiltered.seclab.cs.ucsb.edu,192.35.222.19
+[Reverse DNS] cimber.unfiltered.seclab.cs.ucsb.edu,192.35.222.20
+[Reverse DNS] chechik.unfiltered.seclab.cs.ucsb.edu,192.35.222.18
+[Reverse DNS] frankenheimer.unfiltered.seclab.cs.ucsb.edu,192.35.222.15
+[Reverse DNS] adirondack.cs.ucsb.edu,128.111.40.104
+[Reverse DNS] cerebro.cs.ucsb.edu,128.111.40.244
+[Reverse DNS] note.cs.ucsb.edu,128.111.40.248
+[Reverse DNS] ivory.cs.ucsb.edu,128.111.40.250
+[Reverse DNS] harp.cs.ucsb.edu,128.111.40.105
+[Reverse DNS] blackbird.cs.ucsb.edu,128.111.40.249
+[Reverse DNS] psl2ps.cs.ucsb.edu,128.111.40.246
+[Reverse DNS] sw-556-3152c-12.cs.ucsb.edu,128.111.41.7
+[Reverse DNS] robin.cs.ucsb.edu,128.111.40.245
+[Reverse DNS] sax.cs.ucsb.edu,128.111.40.106
+[Reverse DNS] euca-46-169.cs.ucsb.edu,128.111.46.169
+[Reverse DNS] wps-556-1132-01.cs.ucsb.edu,128.111.41.4
+[Brute Force] www.seclab.cs.ucsb.edu,128.111.48.75
+[Reverse DNS] schmutter.cs.ucsb.edu,128.111.44.229
+[Reverse DNS] sw-556-3152c-04.cs.ucsb.edu,128.111.41.6
+[Reverse DNS] dusky.cs.ucsb.edu,128.111.45.244
+[Reverse DNS] beaked.cs.ucsb.edu,128.111.45.246
+[Reverse DNS] mekong.cs.ucsb.edu,128.111.44.233
+[Reverse DNS] dhcp-44-214.cs.ucsb.edu,128.111.44.214
+[Reverse DNS] dhcp-44-215.cs.ucsb.edu,128.111.44.215
+[Reverse DNS] beatty.unfiltered.seclab.cs.ucsb.edu,192.35.222.23
+[Reverse DNS] bay.unfiltered.seclab.cs.ucsb.edu,192.35.222.22
+[Reverse DNS] danube.cs.ucsb.edu,128.111.44.231
+[Reverse DNS] stone.cs.ucsb.edu,128.111.44.230
+[Reverse DNS] euca-40-115.cs.ucsb.edu,128.111.40.115
+[Reverse DNS] euca-46-171.cs.ucsb.edu,128.111.46.171
+[Reverse DNS] ganges.cs.ucsb.edu,128.111.44.232
+[Reverse DNS] merrimack.cs.ucsb.edu,128.111.44.227
+[Reverse DNS] euca-46-168.cs.ucsb.edu,128.111.46.168
+[Reverse DNS] papers.cs.ucsb.edu,128.111.41.11
+[Reverse DNS] sw-556-3152c-02.cs.ucsb.edu,128.111.41.8
+[Reverse DNS] ups-556-3152c-04.cs.ucsb.edu,128.111.41.9
+[Reverse DNS] euca-40-112.cs.ucsb.edu,128.111.40.112
+[Reverse DNS] euca-40-110.cs.ucsb.edu,128.111.40.110
+[Reverse DNS] euca-40-113.cs.ucsb.edu,128.111.40.113
+[Reverse DNS] euca-40-114.cs.ucsb.edu,128.111.40.114
+[Reverse DNS] euca-46-170.cs.ucsb.edu,128.111.46.170
+[Reverse DNS] euca-40-111.cs.ucsb.edu,128.111.40.111
+[Reverse DNS] euca-40-117.cs.ucsb.edu,128.111.40.117
+[Reverse DNS] benigni.unfiltered.seclab.cs.ucsb.edu,192.35.222.25
+[Reverse DNS] berg.unfiltered.seclab.cs.ucsb.edu,192.35.222.26
+[Reverse DNS] brady.unfiltered.seclab.cs.ucsb.edu,192.35.222.29
+[Reverse DNS] berlinger.unfiltered.seclab.cs.ucsb.edu,192.35.222.27
+[Reverse DNS] reiner.unfiltered.seclab.cs.ucsb.edu,192.35.222.30
+[Reverse DNS] reynolds.unfiltered.seclab.cs.ucsb.edu,192.35.222.31
+[Reverse DNS] robbins.unfiltered.seclab.cs.ucsb.edu,192.35.222.32
+[Reverse DNS] boll.unfiltered.seclab.cs.ucsb.edu,192.35.222.28
+[Reverse DNS] anole.cs.ucsb.edu,128.111.46.176
+[Reverse DNS] crocodile.cs.ucsb.edu,128.111.46.175
+[Reverse DNS] wiseman.unfiltered.seclab.cs.ucsb.edu,192.35.222.34
+[Reverse DNS] basilisk.cs.ucsb.edu,128.111.46.173
+[Reverse DNS] rush.unfiltered.seclab.cs.ucsb.edu,192.35.222.33
+[Reverse DNS] euca-46-172.cs.ucsb.edu,128.111.46.172
+[Reverse DNS] euca-40-116.cs.ucsb.edu,128.111.40.116
+[Reverse DNS] racerunner.cs.ucsb.edu,128.111.46.179
+[Reverse DNS] petznote.cs.ucsb.edu,128.111.46.182
+[Reverse DNS] amphibian.cs.ucsb.edu,128.111.46.190
+[Reverse DNS] hydra.cs.ucsb.edu,128.111.46.180
+[Reverse DNS] taco.unfiltered.seclab.cs.ucsb.edu,192.35.222.50
+[Reverse DNS] yangtze.cs.ucsb.edu,128.111.44.235
+[Reverse DNS] krait.cs.ucsb.edu,128.111.46.178
+[Reverse DNS] reptile.cs.ucsb.edu,128.111.46.189
+[Reverse DNS] lizard.cs.ucsb.edu,128.111.46.191
+[Reverse DNS] turtle.cs.ucsb.edu,128.111.46.188
+[Reverse DNS] euca-40-119.cs.ucsb.edu,128.111.40.119
+[Reverse DNS] volga.cs.ucsb.edu,128.111.44.234
+[Reverse DNS] euca-40-118.cs.ucsb.edu,128.111.40.118
+[Reverse DNS] leatherback.cs.ucsb.edu,128.111.46.193
+[Reverse DNS] boto.cs.ucsb.edu,128.111.45.243
+[Reverse DNS] kemmoffice.cs.ucsb.edu,128.111.48.246
+[Reverse DNS] orangepeel.unfiltered.seclab.cs.ucsb.edu,192.35.222.80
+[Reverse DNS] fishoil.unfiltered.seclab.cs.ucsb.edu,192.35.222.70
+[Reverse DNS] newt.cs.ucsb.edu,128.111.46.197
+[Reverse DNS] salmon.unfiltered.seclab.cs.ucsb.edu,192.35.222.69
+[Reverse DNS] whiptail.cs.ucsb.edu,128.111.46.199
+[Reverse DNS] williamson.cs.ucsb.edu,128.111.44.109
+[Reverse DNS] venom.cs.ucsb.edu,128.111.46.196
+[Reverse DNS] kant.cs.ucsb.edu,128.111.45.247
+[Reverse DNS] diamondback.cs.ucsb.edu,128.111.46.198
+[Reverse DNS] russell.cs.ucsb.edu,128.111.44.105
+[Reverse DNS] chameleon2.cs.ucsb.edu,128.111.46.194
+[Reverse DNS] whitney.cs.ucsb.edu,128.111.44.104
+[Reverse DNS] niagara.cs.ucsb.edu,128.111.44.103
+[Reverse DNS] muir.cs.ucsb.edu,128.111.44.107
+[Reverse DNS] dhcp-52-165.cs.ucsb.edu,128.111.52.165
+[Reverse DNS] stars.cs.ucsb.edu,128.111.45.248
+[Reverse DNS] harbor.cs.ucsb.edu,128.111.45.252
+[Reverse DNS] dhcp-52-167.cs.ucsb.edu,128.111.52.167
+[Reverse DNS] paso.cs.ucsb.edu,128.111.45.250
+[Reverse DNS] hourglass.cs.ucsb.edu,128.111.45.249
+[Reverse DNS] giant.cs.ucsb.edu,128.111.40.130
+[Reverse DNS] dhcp-52-166.cs.ucsb.edu,128.111.52.166
+[Brute Force] vpn.unfiltered.seclab.cs.ucsb.edu,192.35.222.251
+[Reverse DNS] divymacair.cs.ucsb.edu,128.111.44.110
+[Reverse DNS] dhcp-52-168.cs.ucsb.edu,128.111.52.168
+[Reverse DNS] eel.cs.ucsb.edu,128.111.28.76
+[Reverse DNS] amit.cs.ucsb.edu,128.111.40.129
+[Reverse DNS] feuer.cs.ucsb.edu,128.111.28.67
+[Reverse DNS] dhcp-52-169.cs.ucsb.edu,128.111.52.169
+[Reverse DNS] gw-ilab.cs.ucsb.edu,128.111.28.65
+[Reverse DNS] ilab-pr.cs.ucsb.edu,128.111.28.69
+[Reverse DNS] kormakur.unfiltered.seclab.cs.ucsb.edu,192.35.222.169
+[Reverse DNS] schmoeller.unfiltered.seclab.cs.ucsb.edu,192.35.222.165
+[Reverse DNS] gibson.unfiltered.seclab.cs.ucsb.edu,192.35.222.171
+[Reverse DNS] curtiz.unfiltered.seclab.cs.ucsb.edu,192.35.222.175
+[Reverse DNS] fleischer.unfiltered.seclab.cs.ucsb.edu,192.35.222.173
+[Reverse DNS] murnau.unfiltered.seclab.cs.ucsb.edu,192.35.222.168
+[Reverse DNS] cimino.unfiltered.seclab.cs.ucsb.edu,192.35.222.176
+[Reverse DNS] furie.unfiltered.seclab.cs.ucsb.edu,192.35.222.172
+[Reverse DNS] jupiter.cs.ucsb.edu,128.111.46.27
+[Reverse DNS] ritchie.unfiltered.seclab.cs.ucsb.edu,192.35.222.167
+[Reverse DNS] villeneuve.unfiltered.seclab.cs.ucsb.edu,192.35.222.164
+[Reverse DNS] sasdy.unfiltered.seclab.cs.ucsb.edu,192.35.222.166
+[Reverse DNS] hackford.unfiltered.seclab.cs.ucsb.edu,192.35.222.170
+[Reverse DNS] tcl-p2.cs.ucsb.edu,128.111.46.22
+[Reverse DNS] red-carpet.cs.ucsb.edu,128.111.46.29
+[Reverse DNS] wh.cs.ucsb.edu,128.111.46.30
+[Reverse DNS] brooks.unfiltered.seclab.cs.ucsb.edu,192.35.222.177
+[Reverse DNS] walker.unfiltered.seclab.cs.ucsb.edu,192.35.222.163
+[Reverse DNS] picasso.cs.ucsb.edu,128.111.46.35
+[Reverse DNS] diamond.cs.ucsb.edu,128.111.40.134
+[Reverse DNS] derek.unfiltered.seclab.cs.ucsb.edu,192.35.222.174
+[Reverse DNS] smoky.cs.ucsb.edu,128.111.40.152
+[Reverse DNS] dhcp-52-187.cs.ucsb.edu,128.111.52.187
+[Reverse DNS] alves.unfiltered.seclab.cs.ucsb.edu,192.35.222.230
+[Reverse DNS] rainier.cs.ucsb.edu,128.111.40.151
+[Reverse DNS] magnesium.cs.ucsb.edu,128.111.52.211
+[Reverse DNS] dhcp-52-189.cs.ucsb.edu,128.111.52.189
+[Reverse DNS] eire.cs.ucsb.edu,128.111.28.74
+[Reverse DNS] klamath.cs.ucsb.edu,128.111.28.75
+[Reverse DNS] dhcp-52-180.cs.ucsb.edu,128.111.52.180
+[Reverse DNS] dhcp-52-182.cs.ucsb.edu,128.111.52.182
+[Reverse DNS] graphite.cs.ucsb.edu,128.111.40.131
+[Reverse DNS] beryllium.cs.ucsb.edu,128.111.52.209
+[Reverse DNS] dhcp-52-188.cs.ucsb.edu,128.111.52.188
+[Reverse DNS] dhcp-52-190.cs.ucsb.edu,128.111.52.190
+[Reverse DNS] landis.unfiltered.seclab.cs.ucsb.edu,192.35.222.105
+[Reverse DNS] rocknb.cs.ucsb.edu,128.111.40.143
+[Reverse DNS] carlsbad.cs.ucsb.edu,128.111.40.153
+[Reverse DNS] dhcp-52-185.cs.ucsb.edu,128.111.52.185
+[Reverse DNS] dhcp-52-186.cs.ucsb.edu,128.111.52.186
+[Reverse DNS] costner.unfiltered.seclab.cs.ucsb.edu,192.35.222.101
+[Reverse DNS] dhcp-52-183.cs.ucsb.edu,128.111.52.183
+[Reverse DNS] switch-TCL-hp.cs.ucsb.edu,128.111.46.3
+[Reverse DNS] cobalt.cs.ucsb.edu,128.111.52.205
+[Reverse DNS] devito.unfiltered.seclab.cs.ucsb.edu,192.35.222.104
+[Reverse DNS] kaweah.cs.ucsb.edu,128.111.28.79
+[Reverse DNS] dhcp-52-184.cs.ucsb.edu,128.111.52.184
+[Reverse DNS] sodium.cs.ucsb.edu,128.111.52.213
+[Reverse DNS] roberto.cs.ucsb.edu,128.111.46.237
+[Reverse DNS] dhcp-52-181.cs.ucsb.edu,128.111.52.181
+[Reverse DNS] gw-oit-coms-220.cs.ucsb.edu,128.111.54.1
+[Reverse DNS] spear.cs.ucsb.edu,128.111.46.233
+[Reverse DNS] potassium.cs.ucsb.edu,128.111.52.208
+[Reverse DNS] depalma.unfiltered.seclab.cs.ucsb.edu,192.35.222.103
+[Reverse DNS] melton.cs.ucsb.edu,128.111.40.141
+[Reverse DNS] salmon.cs.ucsb.edu,128.111.28.78
+[Reverse DNS] oxygen.cs.ucsb.edu,128.111.52.206
+[Reverse DNS] bender.cs.ucsb.edu,128.111.46.239
+[Reverse DNS] kern.cs.ucsb.edu,128.111.28.80
+[Reverse DNS] katmai.cs.ucsb.edu,128.111.40.154
+[Reverse DNS] ibarraps.cs.ucsb.edu,128.111.46.250
+[Reverse DNS] archlabps.cs.ucsb.edu,128.111.46.253
+[Reverse DNS] kocps.cs.ucsb.edu,128.111.46.249
+[Reverse DNS] calcium.cs.ucsb.edu,128.111.52.207
+[Reverse DNS] silicon.cs.ucsb.edu,128.111.52.210
+[Reverse DNS] kailash.cs.ucsb.edu,128.111.52.212
+[Reverse DNS] hell.cs.ucsb.edu,128.111.41.227
+[Reverse DNS] damato.unfiltered.seclab.cs.ucsb.edu,192.35.222.102
+[Reverse DNS] lw.cs.ucsb.edu,128.111.46.252
+[Reverse DNS] facps.cs.ucsb.edu,128.111.41.247
+[Reverse DNS] tessaro.unfiltered.seclab.cs.ucsb.edu,192.35.222.247
+[Reverse DNS] boarding.cs.ucsb.edu,128.111.46.229
+[Reverse DNS] cowtipper.cs.ucsb.edu,128.111.41.245
+[Reverse DNS] orcas.cs.ucsb.edu,128.111.41.230
+[Reverse DNS] avalanche.cs.ucsb.edu,128.111.41.231
+[Reverse DNS] khan.cs.ucsb.edu,128.111.46.236
+[Reverse DNS] wright.cs.ucsb.edu,128.111.41.233
+[Reverse DNS] trac.cs.ucsb.edu,128.111.41.228
+[Reverse DNS] hook.cs.ucsb.edu,128.111.46.230
+[Reverse DNS] trip.cs.ucsb.edu,128.111.46.234
+[Reverse DNS] nd-nd.cs.ucsb.edu,128.111.46.240
+[Reverse DNS] nibbler.cs.ucsb.edu,128.111.46.238
+[Reverse DNS] nict-only-firewall.unfiltered.seclab.cs.ucsb.edu,192.35.222.246
+[Reverse DNS] crease.cs.ucsb.edu,128.111.46.232
+[Reverse DNS] gehry.cs.ucsb.edu,128.111.41.240
+[Reverse DNS] elzar.cs.ucsb.edu,128.111.46.241
+[Reverse DNS] rosebud.cs.ucsb.edu,128.111.41.243
+[Reverse DNS] dhcp-41-219.cs.ucsb.edu,128.111.41.219
+[Reverse DNS] dhcp-41-217.cs.ucsb.edu,128.111.41.217
+[Reverse DNS] colorps.cs.ucsb.edu,128.111.41.244
+[Reverse DNS] lopez.cs.ucsb.edu,128.111.41.229
+[Reverse DNS] foster.cs.ucsb.edu,128.111.41.234
+[Reverse DNS] chairps.cs.ucsb.edu,128.111.41.250
+[Reverse DNS] quantum0.cs.ucsb.edu,128.111.46.235
+[Reverse DNS] torte.cs.ucsb.edu,128.111.41.239
+[Reverse DNS] waldron.cs.ucsb.edu,128.111.41.237
+[Reverse DNS] biscayne.cs.ucsb.edu,128.111.41.249
+[Reverse DNS] poppy.cs.ucsb.edu,128.111.41.251
+[Reverse DNS] tiramisu.cs.ucsb.edu,128.111.41.246
+[Reverse DNS] sharks.cs.ucsb.edu,128.111.41.235
+[Reverse DNS] scanfront.cs.ucsb.edu,128.111.41.224
+[Reverse DNS] dhcp-41-215.cs.ucsb.edu,128.111.41.215
+[Reverse DNS] forsberg.cs.ucsb.edu,128.111.41.226
+[Reverse DNS] rainbow.cs.ucsb.edu,128.111.41.248
+[Reverse DNS] dhcp-41-216.cs.ucsb.edu,128.111.41.216
+[Reverse DNS] omer.cs.ucsb.edu,128.111.41.232
+[Reverse DNS] oahu.cs.ucsb.edu,128.111.46.51
+[Reverse DNS] ilab-95.cs.ucsb.edu,128.111.28.95
+[Reverse DNS] ilab-92.cs.ucsb.edu,128.111.28.92
+[Reverse DNS] owens.cs.ucsb.edu,128.111.28.82
+[Reverse DNS] merced.cs.ucsb.edu,128.111.28.81
+[Reverse DNS] ilab-94.cs.ucsb.edu,128.111.28.94
+[Reverse DNS] maui.cs.ucsb.edu,128.111.46.53
+[Reverse DNS] ilab-113.cs.ucsb.edu,128.111.28.113
+[Reverse DNS] stanislaus.cs.ucsb.edu,128.111.28.85
+[Reverse DNS] ilab-117.cs.ucsb.edu,128.111.28.117
+[Reverse DNS] feather.cs.ucsb.edu,128.111.28.84
+[Reverse DNS] beckett.cs.ucsb.edu,128.111.45.196
+[Reverse DNS] ilab-115.cs.ucsb.edu,128.111.28.115
+[Reverse DNS] ilab-97.cs.ucsb.edu,128.111.28.97
+[Reverse DNS] dhcp-41-218.cs.ucsb.edu,128.111.41.218
+[Reverse DNS] yuba.cs.ucsb.edu,128.111.28.124
+[Reverse DNS] igertps.cs.ucsb.edu,128.111.28.86
+[Reverse DNS] ilab-91.cs.ucsb.edu,128.111.28.91
+[Reverse DNS] umbria.cs.ucsb.edu,128.111.46.59
+[Reverse DNS] ilab-121.cs.ucsb.edu,128.111.28.121
+[Reverse DNS] ilab-110.cs.ucsb.edu,128.111.28.110
+[Reverse DNS] ilab-111.cs.ucsb.edu,128.111.28.111
+[Reverse DNS] ilab-89.cs.ucsb.edu,128.111.28.89
+[Reverse DNS] truckee.cs.ucsb.edu,128.111.28.125
+[Reverse DNS] ilab-120.cs.ucsb.edu,128.111.28.120
+[Reverse DNS] ilab-114.cs.ucsb.edu,128.111.28.114
+[Reverse DNS] ilab-119.cs.ucsb.edu,128.111.28.119
+[Reverse DNS] tule.cs.ucsb.edu,128.111.28.122
+[Reverse DNS] doe-desktop.cs.ucsb.edu,128.111.54.18
+[Reverse DNS] fts.cs.ucsb.edu,128.111.54.15
+[Reverse DNS] ilab-93.cs.ucsb.edu,128.111.28.93
+[Reverse DNS] gw-556-3152c-11.cs.ucsb.edu,128.111.179.129
+[Reverse DNS] ilab-98.cs.ucsb.edu,128.111.28.98
+[Reverse DNS] dhcp-55-230.cs.ucsb.edu,128.111.55.230
+[Reverse DNS] russian.cs.ucsb.edu,128.111.28.123
+[Reverse DNS] dhcp-55-234.cs.ucsb.edu,128.111.55.234
+[Reverse DNS] dhcp-55-227.cs.ucsb.edu,128.111.55.227
+[Reverse DNS] infonetps.cs.ucsb.edu,128.111.54.20
+[Reverse DNS] ilab-112.cs.ucsb.edu,128.111.28.112
+[Reverse DNS] dhcp-55-215.cs.ucsb.edu,128.111.55.215
+[Reverse DNS] ilab-118.cs.ucsb.edu,128.111.28.118
+[Reverse DNS] dhcp-55-225.cs.ucsb.edu,128.111.55.225
+[Reverse DNS] phelps3526.cs.ucsb.edu,128.111.54.61
+[Reverse DNS] chowchilla.cs.ucsb.edu,128.111.28.126
+[Reverse DNS] dhcp-55-228.cs.ucsb.edu,128.111.55.228
+[Reverse DNS] kafka.cs.ucsb.edu,128.111.45.197
+[Reverse DNS] dhcp-55-235.cs.ucsb.edu,128.111.55.235
+[Reverse DNS] dhcp-55-231.cs.ucsb.edu,128.111.55.231
+[Reverse DNS] dhcp-55-210.cs.ucsb.edu,128.111.55.210
+[Reverse DNS] dhcp-55-213.cs.ucsb.edu,128.111.55.213
+[Reverse DNS] dhcp-55-221.cs.ucsb.edu,128.111.55.221
+[Reverse DNS] dhcp-55-226.cs.ucsb.edu,128.111.55.226
+[Reverse DNS] koclabp1.cs.ucsb.edu,128.111.54.19
+[Reverse DNS] ilab-116.cs.ucsb.edu,128.111.28.116
+[Reverse DNS] dhcp-55-237.cs.ucsb.edu,128.111.55.237
+[Reverse DNS] dhcp-55-218.cs.ucsb.edu,128.111.55.218
+[Reverse DNS] dhcp-55-220.cs.ucsb.edu,128.111.55.220
+[Reverse DNS] dhcp-55-222.cs.ucsb.edu,128.111.55.222
+[Reverse DNS] dhcp-55-229.cs.ucsb.edu,128.111.55.229
+[Reverse DNS] dhcp-55-211.cs.ucsb.edu,128.111.55.211
+[Reverse DNS] dhcp-55-233.cs.ucsb.edu,128.111.55.233
+[Reverse DNS] dhcp-55-240.cs.ucsb.edu,128.111.55.240
+[Reverse DNS] dhcp-55-212.cs.ucsb.edu,128.111.55.212
+[Reverse DNS] dhcp-55-223.cs.ucsb.edu,128.111.55.223
+[Reverse DNS] dhcp-55-232.cs.ucsb.edu,128.111.55.232
+[Reverse DNS] dhcp-55-217.cs.ucsb.edu,128.111.55.217
+[Reverse DNS] dhcp-55-239.cs.ucsb.edu,128.111.55.239
+[Reverse DNS] dhcp-55-214.cs.ucsb.edu,128.111.55.214
+[Reverse DNS] dhcp-55-219.cs.ucsb.edu,128.111.55.219
+[Reverse DNS] dhcp-55-224.cs.ucsb.edu,128.111.55.224
+[Reverse DNS] dhcp-55-238.cs.ucsb.edu,128.111.55.238
+[Reverse DNS] dhcp-55-216.cs.ucsb.edu,128.111.55.216
+[Reverse DNS] aluminum.cs.ucsb.edu,128.111.52.216
+[Reverse DNS] dhcp-55-236.cs.ucsb.edu,128.111.55.236
+[Reverse DNS] triumph-blade6.cs.ucsb.edu,128.111.52.226
+[Reverse DNS] triumph-blade3.cs.ucsb.edu,128.111.52.223
+[Reverse DNS] triumph-blade10.cs.ucsb.edu,128.111.52.230
+[Reverse DNS] triumph-blade12.cs.ucsb.edu,128.111.52.232
+[Reverse DNS] triumph-blade7.cs.ucsb.edu,128.111.52.227
+[Reverse DNS] triumph-blade9.cs.ucsb.edu,128.111.52.229
+[Reverse DNS] helium.cs.ucsb.edu,128.111.52.218
+[Reverse DNS] triumph-rack.cs.ucsb.edu,128.111.52.234
+[Reverse DNS] triumph-blade2.cs.ucsb.edu,128.111.52.222
+[Reverse DNS] triumph-blade8.cs.ucsb.edu,128.111.52.228
+[Reverse DNS] triumph-server.cs.ucsb.edu,128.111.52.220
+[Reverse DNS] triumph-blade11.cs.ucsb.edu,128.111.52.231
+[Reverse DNS] ski.cs.ucsb.edu,128.111.52.240
+[Reverse DNS] triumph-blade1.cs.ucsb.edu,128.111.52.221
+[Reverse DNS] triumph-blade5.cs.ucsb.edu,128.111.52.225
+[Reverse DNS] deek.cs.ucsb.edu,128.111.52.236
+[Reverse DNS] triumph-blade4.cs.ucsb.edu,128.111.52.224
+[Reverse DNS] sitz.cs.ucsb.edu,128.111.52.241
+[Reverse DNS] hydrogen.cs.ucsb.edu,128.111.52.217
+[Reverse DNS] triumph-kvm.cs.ucsb.edu,128.111.52.233
+[Reverse DNS] lithium.cs.ucsb.edu,128.111.52.219
+[Reverse DNS] momentps.cs.ucsb.edu,128.111.52.242
+[Reverse DNS] drum.cs.ucsb.edu,128.111.40.85
+[Reverse DNS] sw-556-3152c-06.cs.ucsb.edu,128.111.40.4
+[Reverse DNS] sw-556-3152c-05.cs.ucsb.edu,128.111.40.3
+[Reverse DNS] sw-556-2162.cs.ucsb.edu,128.111.40.7
+[Reverse DNS] sw-556-3152c-09.cs.ucsb.edu,128.111.40.6
+[Reverse DNS] gleek.cs.ucsb.edu,128.111.40.10
+[Reverse DNS] sw-556-3152c-07.cs.ucsb.edu,128.111.40.5
+[Reverse DNS] tuba.cs.ucsb.edu,128.111.40.31
+[Reverse DNS] ease.cs.ucsb.edu,128.111.40.29
+[Reverse DNS] acme.cs.ucsb.edu,128.111.40.38
+[Reverse DNS] whistle.cs.ucsb.edu,128.111.40.32
+[Reverse DNS] mojave.cs.ucsb.edu,128.111.40.42
+[Reverse DNS] haleakala.cs.ucsb.edu,128.111.40.43
+[Reverse DNS] everglades.cs.ucsb.edu,128.111.40.41
+[Reverse DNS] knockout.cs.ucsb.edu,128.111.40.57
+[Reverse DNS] star.cs.ucsb.edu,128.111.40.55
+[Reverse DNS] euca-40-67.cs.ucsb.edu,128.111.40.67
+[Reverse DNS] euca-40-62.cs.ucsb.edu,128.111.40.62
+[Reverse DNS] euca-40-68.cs.ucsb.edu,128.111.40.68
+[Reverse DNS] shadows.cs.ucsb.edu,128.111.40.56
+[Reverse DNS] prefect.cs.ucsb.edu,128.111.40.78
+[Reverse DNS] lute.cs.ucsb.edu,128.111.40.77
+[Reverse DNS] euca-40-65.cs.ucsb.edu,128.111.40.65
+[Reverse DNS] euca-40-69.cs.ucsb.edu,128.111.40.69
+[Reverse DNS] igo.cs.ucsb.edu,128.111.40.79
+[Reverse DNS] strat.cs.ucsb.edu,128.111.40.74
+[Reverse DNS] clevis.cs.ucsb.edu,128.111.40.73
+[Reverse DNS] banjo.cs.ucsb.edu,128.111.40.83
+[Reverse DNS] candybear.cs.ucsb.edu,128.111.40.80
+[Reverse DNS] croze.cs.ucsb.edu,128.111.40.72
+[Reverse DNS] hactar.cs.ucsb.edu,128.111.40.71
+[Reverse DNS] euca-40-66.cs.ucsb.edu,128.111.40.66
+[Reverse DNS] euca-40-70.cs.ucsb.edu,128.111.40.70
+[Reverse DNS] offside.cs.ucsb.edu,128.111.40.60
+[Reverse DNS] bass.cs.ucsb.edu,128.111.40.30
+[Reverse DNS] captainamerica.cs.ucsb.edu,128.111.73.12
+[Reverse DNS] drstrange.cs.ucsb.edu,128.111.73.15
+[Reverse DNS] quicksilver.cs.ucsb.edu,128.111.73.18
+[Reverse DNS] blackwidow.cs.ucsb.edu,128.111.73.11
+[Reverse DNS] ironman.cs.ucsb.edu,128.111.73.10
+[Reverse DNS] antman.cs.ucsb.edu,128.111.73.19
+[Reverse DNS] hawkeye.cs.ucsb.edu,128.111.73.17
+[Reverse DNS] wasp.cs.ucsb.edu,128.111.73.16
+[Reverse DNS] dhcp-73-31.cs.ucsb.edu,128.111.73.31
+[Reverse DNS] dhcp-73-30.cs.ucsb.edu,128.111.73.30
+[Reverse DNS] scarletwitch.cs.ucsb.edu,128.111.73.20
+[Reverse DNS] rubicon.cs.ucsb.edu,128.111.44.163
+[Reverse DNS] nile.cs.ucsb.edu,128.111.44.151
+[Reverse DNS] saguaro.cs.ucsb.edu,128.111.40.82
+[Reverse DNS] guile.cs.ucsb.edu,128.111.44.171
+[Reverse DNS] indus.cs.ucsb.edu,128.111.44.154
+[Reverse DNS] amazon.cs.ucsb.edu,128.111.44.158
+[Reverse DNS] seine.cs.ucsb.edu,128.111.44.157
+[Reverse DNS] dictum.cs.ucsb.edu,128.111.44.190
+[Reverse DNS] axiom.cs.ucsb.edu,128.111.44.170
+[Reverse DNS] trick.cs.ucsb.edu,128.111.44.176
+[Reverse DNS] fib.cs.ucsb.edu,128.111.44.178
+[Reverse DNS] tale.cs.ucsb.edu,128.111.44.181
+[crt.sh]      cloudstrife.seclab.cs.ucsb.edu,34.215.255.68
+[crt.sh]      mobicom15.cs.ucsb.edu,128.111.73.13
+[Reverse DNS] deceit.cs.ucsb.edu,128.111.44.177
+[Reverse DNS] rhine.cs.ucsb.edu,128.111.44.152
+[Archive-It]  summit.cs.ucsb.edu,128.111.27.14
+[Reverse DNS] candor.cs.ucsb.edu,128.111.44.187
+[Reverse DNS] candle.cs.ucsb.edu,128.111.45.200
+[Reverse DNS] verbinski.unfiltered.seclab.cs.ucsb.edu,192.35.222.111
+[Reverse DNS] virtue.cs.ucsb.edu,128.111.44.186
+[Reverse DNS] verity.cs.ucsb.edu,128.111.44.172
+[Reverse DNS] precept.cs.ucsb.edu,128.111.44.189
+[Reverse DNS] exact.cs.ucsb.edu,128.111.44.183
+[Reverse DNS] euca-vm-102.cs.ucsb.edu,128.111.179.245
+[crt.sh]      revolver.cs.ucsb.edu,128.111.48.141
+[Reverse DNS] euca-vm-100.cs.ucsb.edu,128.111.179.243
+[Reverse DNS] euca-vm-104.cs.ucsb.edu,128.111.179.247
+[Reverse DNS] fact.cs.ucsb.edu,128.111.44.182
+[Reverse DNS] wolps.cs.ucsb.edu,128.111.45.198
+[Reverse DNS] euca-vm-107.cs.ucsb.edu,128.111.179.250
+[Reverse DNS] euca-vm-108.cs.ucsb.edu,128.111.179.251
+[Reverse DNS] scoop.cs.ucsb.edu,128.111.44.184
+[crt.sh]      gswc2016.cs.ucsb.edu,128.111.48.101
+[Reverse DNS] euca-vm-103.cs.ucsb.edu,128.111.179.246
+[Reverse DNS] libel.cs.ucsb.edu,128.111.44.180
+[Reverse DNS] visconti.unfiltered.seclab.cs.ucsb.edu,192.35.222.112
+[Reverse DNS] prince.unfiltered.seclab.cs.ucsb.edu,192.35.222.108
+[Reverse DNS] euca-vm-110.cs.ucsb.edu,128.111.179.253
+[Reverse DNS] grampus.cs.ucsb.edu,128.111.45.199
+[Reverse DNS] fable.cs.ucsb.edu,128.111.44.174
+[Reverse DNS] stallone.unfiltered.seclab.cs.ucsb.edu,192.35.222.109
+[Reverse DNS] stiller.unfiltered.seclab.cs.ucsb.edu,192.35.222.110
+[Reverse DNS] euca-vm-101.cs.ucsb.edu,128.111.179.244
+[Reverse DNS] euca-vm-109.cs.ucsb.edu,128.111.179.252
+[Reverse DNS] euca-vm-106.cs.ucsb.edu,128.111.179.249
+[Reverse DNS] actual.cs.ucsb.edu,128.111.44.188
+[Reverse DNS] lucas.unfiltered.seclab.cs.ucsb.edu,192.35.222.106
+[Alterations] ilab-99.cs.ucsb.edu,128.111.28.99
+[Alterations] ilab-96.cs.ucsb.edu,128.111.28.96
+[Reverse DNS] euca-vm-105.cs.ucsb.edu,128.111.179.248
+[Wayback Arc] energy.cs.ucsb.edu,128.111.41.26
+[Alterations] dhcp-52-153.cs.ucsb.edu,128.111.52.153
+[Alterations] dhcp-41-213.cs.ucsb.edu,128.111.41.213
+[Alterations] dhcp-45-116.cs.ucsb.edu,128.111.45.116
+[Alterations] dhcp-45-124.cs.ucsb.edu,128.111.45.124
+
+Amass v1.5.2                                            Jeff Foley (@jeff_foley)
+--------------------------------------------------------------------------------
+1591 names discovered - brute: 81, alt: 215, archive: 2, scrape: 338, dns: 955
+--------------------------------------------------------------------------------
+ASN: 54113 - FASTLY - Fastly, US
+	185.199.110.0/24  	1    Subdomain Name(s)
+	185.199.108.0/22  	1    Subdomain Name(s)
+ASN: 53831 - SQUARESPACE - Squarespace, Inc., US
+	198.49.23.0/24    	2    Subdomain Name(s)
+ASN: 14618 - AMAZON-AES - Amazon.com, Inc., US
+	34.224.0.0/12     	1    Subdomain Name(s)
+ASN: 26496 - AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+	173.201.192.0/22  	11   Subdomain Name(s)
+	184.168.220.0/22  	6    Subdomain Name(s)
+	50.63.200.0/22    	5    Subdomain Name(s)
+	68.178.128.0/17   	3    Subdomain Name(s)
+	68.178.212.0/22   	3    Subdomain Name(s)
+	72.167.216.0/22   	4    Subdomain Name(s)
+	97.74.132.0/22    	5    Subdomain Name(s)
+ASN: 8560 - ONEANDONE-AS Brauerstrasse 48, DE
+	216.250.112.0/20  	2    Subdomain Name(s)
+ASN: 7018 - ATT-INTERNET4 - AT&T Services, Inc., US
+	12.0.0.0/9        	2    Subdomain Name(s)
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc., US
+	34.208.0.0/12     	1    Subdomain Name(s)
+	52.10.0.0/15      	2    Subdomain Name(s)
+ASN: 131 - UCSB-NET-AS - University of California, Santa Barbara, US
+	169.231.0.0/16    	2    Subdomain Name(s)
+	128.111.0.0/16    	1471 Subdomain Name(s)
+	192.35.222.0/24   	69   Subdomain Name(s)
